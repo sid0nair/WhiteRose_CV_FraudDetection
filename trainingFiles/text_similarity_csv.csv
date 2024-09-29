@@ -1,0 +1,965 @@
+,pdf_id,Job Title,Interviewee ID,Job Title applying to,Job Title Tokens,Aggregated Applying Job Title Tokens,Job Title Risk Factor
+0,0,BILINGUAL LANGUAGE ARTS SIXTH GRADE TEACHER,0,,"['BILINGUAL', 'LANGUAGE', 'ARTS', 'SIXTH', 'GRADE', 'TEACHER']",[],0
+1,1,MORTGAGE BANKING DEFAULT OPERATIONS SPECIALIST II,1,internal inquiries,"['MORTGAGE', 'BANKING', 'DEFAULT', 'OPERATIONS', 'SPECIALIST', 'II']","['internal', 'inquiries']",0.378127954
+2,2,GUEST LECTURER,2,fitness specialists fitness supervisor a fitness supervisor a fitness supervisor,"['GUEST', 'LECTURER']","['fitness', 'specialists', 'fitness', 'supervisor', 'a', 'fitness', 'supervisor', 'a', 'fitness', 'supervisor']",0.840775808
+3,3,ACCOUNTANT,3,,['ACCOUNTANT'],[],0
+4,4,STAFF ACCOUNTANT,4,,"['STAFF', 'ACCOUNTANT']",[],0
+5,5,HR - SHARED SERVICES SUPERVISOR,5,,"['HR', '-', 'SHARED', 'SERVICES', 'SUPERVISOR']",[],0
+6,6,ORGANIZER AND CAPACITY BUILDING STRATEGIST,6,this strategist,"['ORGANIZER', 'AND', 'CAPACITY', 'BUILDING', 'STRATEGIST']","['this', 'strategist']",0.639308511
+7,7,HR DIRECTOR,7,an HR Representative,"['HR', 'DIRECTOR']","['an', 'HR', 'Representative']",0.236533716
+8,8,Professional Summary,8,,"['Professional', 'Summary']",[],0
+9,9,MEMBER SERVICES REPRESENTATIVE,9,the member services representative,"['MEMBER', 'SERVICES', 'REPRESENTATIVE']","['the', 'member', 'services', 'representative']",0.482176188
+10,10,OPERATIONS MANAGER,10,,"['OPERATIONS', 'MANAGER']",[],0
+11,11,BANKING RELATIONSHIP SPECIALIST,11,the skilled Banking Relationship Specialist,"['BANKING', 'RELATIONSHIP', 'SPECIALIST']","['the', 'skilled', 'Banking', 'Relationship', 'Specialist']",0.353047645
+12,12,PARTNER ACCOUNT MANAGER,12,,"['PARTNER', 'ACCOUNT', 'MANAGER']",[],0
+13,13,HEALTHCARE RECRUITER,13,,"['HEALTHCARE', 'RECRUITER']",[],0
+14,14,FLOATER/TEACHER,14,,['FLOATER/TEACHER'],[],0
+15,15,FINANCE AND OPERATIONS MANAGER,15,internal processes,"['FINANCE', 'AND', 'OPERATIONS', 'MANAGER']","['internal', 'processes']",0.461529947
+16,16,PHLEBOTOMIST,16,a creative strategist,['PHLEBOTOMIST'],"['a', 'creative', 'strategist']",0.786128626
+17,17,FINANCE MANAGER,17,,"['FINANCE', 'MANAGER']",[],0
+18,18,SUPPORT & NETWORK SERVICES INTERN,18,their internship this intern their internship,"['SUPPORT', '&', 'NETWORK', 'SERVICES', 'INTERN']","['their', 'internship', 'this', 'intern', 'their', 'internship']",0.353332417
+19,19,BANKING OFFICER,19,a talented investment banking summer analyst,"['BANKING', 'OFFICER']","['a', 'talented', 'investment', 'banking', 'summer', 'analyst']",0.366668751
+20,20,HR MANAGER,20,an HR assistant,"['HR', 'MANAGER']","['an', 'HR', 'assistant']",0.241296261
+21,21,HR GENERALIST/RECRUITER,21,,"['HR', 'GENERALIST/RECRUITER']",[],0
+22,22,DOMESTIC VIOLENCE COUNSELOR ADVOCATE,22,,"['DOMESTIC', 'VIOLENCE', 'COUNSELOR', 'ADVOCATE']",[],0
+23,23,ASSISTANT VICE PRESIDENT,23,,"['ASSISTANT', 'VICE', 'PRESIDENT']",[],0
+24,24,DIRECTOR OF FINANCE,24,national account executives,"['DIRECTOR', 'OF', 'FINANCE']","['national', 'account', 'executives']",0.643840083
+25,25,HEALTHCARE CONSULTANT,25,,"['HEALTHCARE', 'CONSULTANT']",[],0
+26,26,HR MANAGER,26,,"['HR', 'MANAGER']",[],0
+27,27,GROUP FITNESS COORDINATOR,27,a skilled data analyst,"['GROUP', 'FITNESS', 'COORDINATOR']","['a', 'skilled', 'data', 'analyst']",0.446455284
+28,28,LINE ATTENDANT,28,a remarkable supervisor,"['LINE', 'ATTENDANT']","['a', 'remarkable', 'supervisor']",0.789247842
+29,29,INFORMATION TECHNOLOGY SPECIALIST,29,,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']",[],0
+30,30,PROJECT ACCOUNTANT,30,a Sales & Trading Intern,"['PROJECT', 'ACCOUNTANT']","['a', 'Sales', '&', 'Trading', 'Intern']",0.511625942
+31,31,"PLATFORM ARCHITECT, HEALTHCARE INCUBATION LAB (HIL)",31,a platform architect software architecture software architecture a talented platform architect,"['PLATFORM', 'ARCHITECT,', 'HEALTHCARE', 'INCUBATION', 'LAB', '(HIL)']","['a', 'platform', 'architect', 'software', 'architecture', 'software', 'architecture', 'a', 'talented', 'platform', 'architect']",0.59388888
+32,32,VOLUNTEER HR -IVOLUNTEER,32,,"['VOLUNTEER', 'HR', '-IVOLUNTEER']",[],0
+33,33,ACCOUNTANT,33,,['ACCOUNTANT'],[],0
+34,34,WORKING RF SYSTEMS ENGINEER,34,,"['WORKING', 'RF', 'SYSTEMS', 'ENGINEER']",[],0
+35,35,PERSONNEL SECURITY SPECIALIST,35,international aircraft certification programs the specialist's contributions the personnel security specialist,"['PERSONNEL', 'SECURITY', 'SPECIALIST']","['international', 'aircraft', 'certification', 'programs', 'the', ""specialist's"", 'contributions', 'the', 'personnel', 'security', 'specialist']",0.456047287
+36,36,SUPERVISOR,36,the supervisory role,['SUPERVISOR'],"['the', 'supervisory', 'role']",0.534200164
+37,37,SENIOR STUDENT ACCOUNTS OFFICER,37,a dedicated financial aid and student accounts officer,"['SENIOR', 'STUDENT', 'ACCOUNTS', 'OFFICER']","['a', 'dedicated', 'financial', 'aid', 'and', 'student', 'accounts', 'officer']",0.465522234
+38,38,AVIATION ELECTRONICS TECHNICIAN,38,a highly skilled aviation electronics technician a fitness trainer,"['AVIATION', 'ELECTRONICS', 'TECHNICIAN']","['a', 'highly', 'skilled', 'aviation', 'electronics', 'technician', 'a', 'fitness', 'trainer']",0.411016747
+39,39,"BANKING CENTER MANAGER, ASSISTANT VICE PRESIDENT",39,,"['BANKING', 'CENTER', 'MANAGER,', 'ASSISTANT', 'VICE', 'PRESIDENT']",[],0
+40,40,I,40,a dedicated healthcare marketing specialist a talented and dynamic healthcare marketing specialist an exceptional Healthcare Marketing Specialist,['I'],"['a', 'dedicated', 'healthcare', 'marketing', 'specialist', 'a', 'talented', 'and', 'dynamic', 'healthcare', 'marketing', 'specialist', 'an', 'exceptional', 'Healthcare', 'Marketing', 'Specialist']",0.784100129
+41,41,CO- FOUNDER/THERAPIST AND TEACHING ARTIST,41,,"['CO-', 'FOUNDER/THERAPIST', 'AND', 'TEACHING', 'ARTIST']",[],0
+42,42,ASSISTANT MANAGER - HR,42,,"['ASSISTANT', 'MANAGER', '-', 'HR']",[],0
+43,43,HR COORDINATOR,43,,"['HR', 'COORDINATOR']",[],0
+44,44,SALES & CUSTOMER SERVICE REP,44,new representatives new representatives,"['SALES', '&', 'CUSTOMER', 'SERVICE', 'REP']","['new', 'representatives', 'new', 'representatives']",0.358424736
+45,45,FITNESS STAFF,45,,"['FITNESS', 'STAFF']",[],0
+46,46,GENERAL ACCOUNTANT,46,the highly skilled tax accounting specialist,"['GENERAL', 'ACCOUNTANT']","['the', 'highly', 'skilled', 'tax', 'accounting', 'specialist']",0.734291156
+47,47,ACCOUNTANT,47,,['ACCOUNTANT'],[],0
+48,48,Summary,48,,['Summary'],[],0
+49,49,ADMISSIONS EXECUTIVE,49,the Admissions Executive's responsibilities the admissions executive,"['ADMISSIONS', 'EXECUTIVE']","['the', 'Admissions', ""Executive's"", 'responsibilities', 'the', 'admissions', 'executive']",0.597692836
+50,50,HIGHLY ACCOMPLISHED HEALTHCARE ANALYST,50,a dedicated medical support assistant a highly accomplished healthcare analyst executives the analyst's guidance,"['HIGHLY', 'ACCOMPLISHED', 'HEALTHCARE', 'ANALYST']","['a', 'dedicated', 'medical', 'support', 'assistant', 'a', 'highly', 'accomplished', 'healthcare', 'analyst', 'executives', 'the', ""analyst's"", 'guidance']",0.483315443
+51,51,INFORMATION TECHNOLOGY SPECIALIST,51,an exceptional Information Technology Specialist,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']","['an', 'exceptional', 'Information', 'Technology', 'Specialist']",0.271864231
+52,52,CORPORATE ACCOUNTANT,52,,"['CORPORATE', 'ACCOUNTANT']",[],0
+53,53,RECEIVING MANAGER,53,,"['RECEIVING', 'MANAGER']",[],0
+54,54,ACCOUNTANT,54,the Finance Assistant's ability,['ACCOUNTANT'],"['the', 'Finance', ""Assistant's"", 'ability']",0.692443935
+55,55,"MORTGAGE GROUP OPERATIONS MANAGER, BANKING OFFICER",55,mortgage loan officers mortgage loan officers,"['MORTGAGE', 'GROUP', 'OPERATIONS', 'MANAGER,', 'BANKING', 'OFFICER']","['mortgage', 'loan', 'officers', 'mortgage', 'loan', 'officers']",0.496608285
+56,56,INFORMATION TECHNOLOGY SUPPORT SPECIALISTNETWORK SPECIALIST PC TECHNICIAN IT CONSULTANT,56,an HR Assistant Intern an exceptional Information Technology Support Specialist,"['INFORMATION', 'TECHNOLOGY', 'SUPPORT', 'SPECIALISTNETWORK', 'SPECIALIST', 'PC', 'TECHNICIAN', 'IT', 'CONSULTANT']","['an', 'HR', 'Assistant', 'Intern', 'an', 'exceptional', 'Information', 'Technology', 'Support', 'Specialist']",0.260807067
+57,57,MANAGER,57,,['MANAGER'],[],0
+58,58,HR DIRECTOR,58,,"['HR', 'DIRECTOR']",[],0
+59,59,FITNESS DIRECTOR,59,personal trainers,"['FITNESS', 'DIRECTOR']","['personal', 'trainers']",0.632817861
+60,60,OCCUPATIONAL THERAPIST,60,,"['OCCUPATIONAL', 'THERAPIST']",[],0
+61,61,MAINTENANCE SPECIALIST/TECHNICIAN,61,a maintenance specialist,"['MAINTENANCE', 'SPECIALIST/TECHNICIAN']","['a', 'maintenance', 'specialist']",0.597361847
+62,62,AIRCRAFT HYDRAULICS JOURNYMAN,62,,"['AIRCRAFT', 'HYDRAULICS', 'JOURNYMAN']",[],0
+63,63,OVERNIGHT PHARMACY TECHNICIAN,63,this technician,"['OVERNIGHT', 'PHARMACY', 'TECHNICIAN']","['this', 'technician']",0.556370081
+64,64,TRANSITIONAL HOUSING ADVOCATE,64,,"['TRANSITIONAL', 'HOUSING', 'ADVOCATE']",[],0
+65,65,LICENSED UNITED HEALTHCARE INSURANCE SALES AGENT,65,a talented licensed United Healthcare insurance sales agent a certified personal trainer,"['LICENSED', 'UNITED', 'HEALTHCARE', 'INSURANCE', 'SALES', 'AGENT']","['a', 'talented', 'licensed', 'United', 'Healthcare', 'insurance', 'sales', 'agent', 'a', 'certified', 'personal', 'trainer']",0.353015474
+66,66,ACCOUNTANT,66,,['ACCOUNTANT'],[],0
+67,67,IT TECHNOLOGY SPECIALIST,67,an accomplished technology specialist an exceptional IT Technology Specialist,"['IT', 'TECHNOLOGY', 'SPECIALIST']","['an', 'accomplished', 'technology', 'specialist', 'an', 'exceptional', 'IT', 'Technology', 'Specialist']",0.230631373
+68,68,SENIOR HR BUSINESS PARTNER,68,a dedicated Human Resources specialist,"['SENIOR', 'HR', 'BUSINESS', 'PARTNER']","['a', 'dedicated', 'Human', 'Resources', 'specialist']",0.262644527
+69,69,CUSTOMER SERVICE REPRESENTATIVE,69,this representative,"['CUSTOMER', 'SERVICE', 'REPRESENTATIVE']","['this', 'representative']",0.475032559
+70,70,LICENSED HEALTHCARE COMMUNICATOR,70,,"['LICENSED', 'HEALTHCARE', 'COMMUNICATOR']",[],0
+71,71,HR COORDINATOR,71,international HR policies,"['HR', 'COORDINATOR']","['international', 'HR', 'policies']",0.213639225
+72,72,FOOD SERVER,72,a crew trainer Crew Trainer a crew trainer,"['FOOD', 'SERVER']","['a', 'crew', 'trainer', 'Crew', 'Trainer', 'a', 'crew', 'trainer']",0.669414829
+73,73,SERVICE REPRESENTATIVE,73,,"['SERVICE', 'REPRESENTATIVE']",[],0
+74,74,INFORMATION TECHNOLOGY ADMINISTRATOR,74,,"['INFORMATION', 'TECHNOLOGY', 'ADMINISTRATOR']",[],0
+75,75,GENERAL ACCOUNTANT,75,,"['GENERAL', 'ACCOUNTANT']",[],0
+76,76,INFORMATION TECHNOLOGY COORDINATOR,76,,"['INFORMATION', 'TECHNOLOGY', 'COORDINATOR']",[],0
+77,77,CLIENT ADVOCATE / ESCALATION SPECIALIST,77,an exceptional intern representatives,"['CLIENT', 'ADVOCATE', '/', 'ESCALATION', 'SPECIALIST']","['an', 'exceptional', 'intern', 'representatives']",0.283131259
+78,78,GROUP FITNESS INSTRUCTOR,78,,"['GROUP', 'FITNESS', 'INSTRUCTOR']",[],0
+79,79,DONOR ADVOCATE,79,an international children's choir an international tour an international choir,"['DONOR', 'ADVOCATE']","['an', 'international', ""children's"", 'choir', 'an', 'international', 'tour', 'an', 'international', 'choir']",0.366629221
+80,80,CUSTOMER SUCCESS ADVOCATE,80,,"['CUSTOMER', 'SUCCESS', 'ADVOCATE']",[],0
+81,81,GLOBAL IT PROJECT MANAGER,81,not just the internal systems the internal systems,"['GLOBAL', 'IT', 'PROJECT', 'MANAGER']","['not', 'just', 'the', 'internal', 'systems', 'the', 'internal', 'systems']",0.400702105
+82,82,INFORMATION TECHNOLOGY COORDINATOR,82,executives an Information Technology Coordinator,"['INFORMATION', 'TECHNOLOGY', 'COORDINATOR']","['executives', 'an', 'Information', 'Technology', 'Coordinator']",0.359640243
+83,83,MEDICAL RECORD TECHNICIAN,83,a supervisor,"['MEDICAL', 'RECORD', 'TECHNICIAN']","['a', 'supervisor']",0.467650999
+84,84,"READING, SPEECH & LANGUAGE ARTS TEACHER",84,a yearbook advisor,"['READING,', 'SPEECH', '&', 'LANGUAGE', 'ARTS', 'TEACHER']","['a', 'yearbook', 'advisor']",0.309181266
+85,86,ADMINISTRATIVE ASSISTANT,86,the administrative assistant,"['ADMINISTRATIVE', 'ASSISTANT']","['the', 'administrative', 'assistant']",0.552436924
+86,87,CONSUMER ADVOCATE,87,an intern,"['CONSUMER', 'ADVOCATE']","['an', 'intern']",0.498026204
+87,88,NIGHT SERVICE REPRESENTATIVE,88,Night Service Representative,"['NIGHT', 'SERVICE', 'REPRESENTATIVE']","['Night', 'Service', 'Representative']",0.656267274
+88,89,DISABILITY ADVOCATE,89,,"['DISABILITY', 'ADVOCATE']",[],0
+89,90,HR ASSISTANT/PAYROLL,90,the HR Assistant/Payroll professional the HR Assistant and Payroll professional,"['HR', 'ASSISTANT/PAYROLL']","['the', 'HR', 'Assistant/Payroll', 'professional', 'the', 'HR', 'Assistant', 'and', 'Payroll', 'professional']",0.413722321
+90,92,ACCOUNTANT II,92,,"['ACCOUNTANT', 'II']",[],0
+91,93,HR MANAGER,93,an HR Assistant and Payroll expert,"['HR', 'MANAGER']","['an', 'HR', 'Assistant', 'and', 'Payroll', 'expert']",0.233557119
+92,94,PRACTICUM EXPERIENCE,94,nursing assistants,"['PRACTICUM', 'EXPERIENCE']","['nursing', 'assistants']",0.815478506
+93,95,LINE SERVICE TECHNICIAN,95,,"['LINE', 'SERVICE', 'TECHNICIAN']",[],0
+94,96,INFORMATION TECHNOLOGY MANAGER,96,a Trip Coordinator,"['INFORMATION', 'TECHNOLOGY', 'MANAGER']","['a', 'Trip', 'Coordinator']",0.313845035
+95,97,DIRECTOR OF AVIATION AND SAFETY,97,,"['DIRECTOR', 'OF', 'AVIATION', 'AND', 'SAFETY']",[],0
+96,98,FINANCE MANAGER,98,,"['FINANCE', 'MANAGER']",[],0
+97,99,FINANCE ACCOUNTANT,99,auditors,"['FINANCE', 'ACCOUNTANT']",['auditors'],0.713645563
+98,100,PRESIDENT/CHIEF EXECUTIVE OFFICER,100,,"['PRESIDENT/CHIEF', 'EXECUTIVE', 'OFFICER']",[],0
+99,101,CHIEF EXECUTIVE OFFICER,101,a talented executive,"['CHIEF', 'EXECUTIVE', 'OFFICER']","['a', 'talented', 'executive']",0.555237525
+100,102,ASSISTANT BANKING CENTER MANAGER,102,a small brokerage,"['ASSISTANT', 'BANKING', 'CENTER', 'MANAGER']","['a', 'small', 'brokerage']",0.41380513
+101,103,ACCOUNTANT,103,,['ACCOUNTANT'],[],0
+102,104,BILINGUAL DOMESTIC VIOLENCE ADVOCATE,104,a geology researcher,"['BILINGUAL', 'DOMESTIC', 'VIOLENCE', 'ADVOCATE']","['a', 'geology', 'researcher']",0.502741507
+103,105,PREVENTATIVE HEALTHCARE INTERN,105,an outstanding preventive healthcare intern,"['PREVENTATIVE', 'HEALTHCARE', 'INTERN']","['an', 'outstanding', 'preventive', 'healthcare', 'intern']",0.334076806
+104,106,FINANCE DIRECTOR AND TREASURER,106,,"['FINANCE', 'DIRECTOR', 'AND', 'TREASURER']",[],0
+105,107,FINANCE OFFICER,107,,"['FINANCE', 'OFFICER']",[],0
+106,108,"PERSONAL TRAINER, GROUP FITNESS INSTRUCTOR",108,the personal trainer,"['PERSONAL', 'TRAINER,', 'GROUP', 'FITNESS', 'INSTRUCTOR']","['the', 'personal', 'trainer']",0.516911686
+107,109,PRINCIPAL ACCOUNTANT,109,auditors auditors the system administrator's technical expertise,"['PRINCIPAL', 'ACCOUNTANT']","['auditors', 'auditors', 'the', 'system', ""administrator's"", 'technical', 'expertise']",0.784980922
+108,110,PROJECT MANAGER,110,,"['PROJECT', 'MANAGER']",[],0
+109,111,HOSPITAL & PHYSICIAN BILLING SPECIALIST,111,the billing specialist a highly skilled hospital and physician billing specialist a dedicated healthcare technician a Hospital and Physician Billing Specialist,"['HOSPITAL', '&', 'PHYSICIAN', 'BILLING', 'SPECIALIST']","['the', 'billing', 'specialist', 'a', 'highly', 'skilled', 'hospital', 'and', 'physician', 'billing', 'specialist', 'a', 'dedicated', 'healthcare', 'technician', 'a', 'Hospital', 'and', 'Physician', 'Billing', 'Specialist']",0.351142919
+110,112,COLLEGE ASSISTANT,112,,"['COLLEGE', 'ASSISTANT']",[],0
+111,113,FINANCIAL ACCOUNTANT,113,an experienced personal trainer,"['FINANCIAL', 'ACCOUNTANT']","['an', 'experienced', 'personal', 'trainer']",0.647871038
+112,114,SENIOR VP - INFORMATION TECHNOLOGY,114,,"['SENIOR', 'VP', '-', 'INFORMATION', 'TECHNOLOGY']",[],0
+113,115,BRANCH LOGISTICS MANAGER,115,international manufacturing a certified personal trainer a remarkable nursing executive,"['BRANCH', 'LOGISTICS', 'MANAGER']","['international', 'manufacturing', 'a', 'certified', 'personal', 'trainer', 'a', 'remarkable', 'nursing', 'executive']",0.543057758
+114,116,HR ASSISTANT,116,the Finance Officer's wealth an experienced HR Representative,"['HR', 'ASSISTANT']","['the', 'Finance', ""Officer's"", 'wealth', 'an', 'experienced', 'HR', 'Representative']",0.311688745
+115,117,ASP.NET WEB DEVELOPER,117,an exceptional ASP.NET Web Developer this developer,"['ASP.NET', 'WEB', 'DEVELOPER']","['an', 'exceptional', 'ASP.NET', 'Web', 'Developer', 'this', 'developer']",0.68996102
+116,118,LEAD ADMINISTRATOR,118,an arts administrator the lead administrator,"['LEAD', 'ADMINISTRATOR']","['an', 'arts', 'administrator', 'the', 'lead', 'administrator']",0.502875426
+117,119,TERRITORY HR MANAGER,119,,"['TERRITORY', 'HR', 'MANAGER']",[],0
+118,120,AVIATION SUPPLY TECHNICIAN,120,an operator,"['AVIATION', 'SUPPLY', 'TECHNICIAN']","['an', 'operator']",0.533012346
+119,121,SYSTEM ADMINISTRATOR,121,LAN/WAN architectures,"['SYSTEM', 'ADMINISTRATOR']","['LAN/WAN', 'architectures']",0.722445738
+120,122,ACCOUNTANT,122,,['ACCOUNTANT'],[],0
+121,123,BUSINESS BANKING SPECIALIST,123,,"['BUSINESS', 'BANKING', 'SPECIALIST']",[],0
+122,124,AS,124,,['AS'],[],0
+123,125,VICE PRESIDENT,125,,"['VICE', 'PRESIDENT']",[],0
+124,126,VOLUNTEER ADVOCATE,126,,"['VOLUNTEER', 'ADVOCATE']",[],0
+125,127,ACCOUNTANT,127,internal teams,['ACCOUNTANT'],"['internal', 'teams']",0.501778578
+126,128,ACCOUNT RECEIVABLE,128,a dedicated Account Receivable specialist internal processes the account receivable specialist,"['ACCOUNT', 'RECEIVABLE']","['a', 'dedicated', 'Account', 'Receivable', 'specialist', 'internal', 'processes', 'the', 'account', 'receivable', 'specialist']",0.75781555
+127,129,SENIOR EXECUTIVE - FINANCE,129,the financial executive's skills international markets,"['SENIOR', 'EXECUTIVE', '-', 'FINANCE']","['the', 'financial', ""executive's"", 'skills', 'international', 'markets']",0.302744238
+128,130,PROFESSIONAL HEALTHCARE REPRESENTATIVE,130,a dedicated healthcare representative,"['PROFESSIONAL', 'HEALTHCARE', 'REPRESENTATIVE']","['a', 'dedicated', 'healthcare', 'representative']",0.445172133
+129,131,SENIOR HR MANAGER,131,,"['SENIOR', 'HR', 'MANAGER']",[],0
+130,133,OPERATION MANAGER,133,an experienced Air Freight Agent,"['OPERATION', 'MANAGER']","['an', 'experienced', 'Air', 'Freight', 'Agent']",0.623618913
+131,134,DOMESTIC VIOLENCE AND SEXUAL ASSAULT ADVOCATE,134,,"['DOMESTIC', 'VIOLENCE', 'AND', 'SEXUAL', 'ASSAULT', 'ADVOCATE']",[],0
+132,135,CHIEF OPERATING OFFICER,135,the aspiring intern,"['CHIEF', 'OPERATING', 'OFFICER']","['the', 'aspiring', 'intern']",0.660140619
+133,136,HR CONSULTING,136,,"['HR', 'CONSULTING']",[],0
+134,137,ACCOUNTANT,137,the Chief Financial Officer certification the Chief Financial Officer certification,['ACCOUNTANT'],"['the', 'Chief', 'Financial', 'Officer', 'certification', 'the', 'Chief', 'Financial', 'Officer', 'certification']",0.617957639
+135,138,INTERNSHIP,138,an intern their internship her internship their internship their internship an internship,['INTERNSHIP'],"['an', 'intern', 'their', 'internship', 'her', 'internship', 'their', 'internship', 'their', 'internship', 'an', 'internship']",0.724650361
+136,139,HR CONSULTANT,139,,"['HR', 'CONSULTANT']",[],0
+137,140,SECRETARY - FINANCE DIVISION,140,,"['SECRETARY', '-', 'FINANCE', 'DIVISION']",[],0
+138,142,HR REPRESENTATIVE,142,a highly skilled HR representative,"['HR', 'REPRESENTATIVE']","['a', 'highly', 'skilled', 'HR', 'representative']",0.32477861
+139,143,FINANCE MANAGER,143,financial analysts auditors a finance and accounting specialist,"['FINANCE', 'MANAGER']","['financial', 'analysts', 'auditors', 'a', 'finance', 'and', 'accounting', 'specialist']",0.34799778
+140,144,CREATIVE DIRECTOR,144,a Landscape Technician Data Analyst aspiring interns,"['CREATIVE', 'DIRECTOR']","['a', 'Landscape', 'Technician', 'Data', 'Analyst', 'aspiring', 'interns']",0.571027468
+141,145,LICENSED UNITED HEALTHCARE INSURANCE SALES AGENT,145,a talented licensed insurance sales agent,"['LICENSED', 'UNITED', 'HEALTHCARE', 'INSURANCE', 'SALES', 'AGENT']","['a', 'talented', 'licensed', 'insurance', 'sales', 'agent']",0.387149162
+142,146,OPERATIONS MANAGER,146,,"['OPERATIONS', 'MANAGER']",[],0
+143,147,FINANCE CONTROLLER,147,Finance Controller spanned over a decade,"['FINANCE', 'CONTROLLER']","['Finance', 'Controller', 'spanned', 'over', 'a', 'decade']",0.555023886
+144,148,CNA IN SKILLED HEALTHCARE,148,a dedicated home healthcare technician,"['CNA', 'IN', 'SKILLED', 'HEALTHCARE']","['a', 'dedicated', 'home', 'healthcare', 'technician']",0.453557214
+145,149,HR REPRESENTATIVE,149,union representatives internal communication an HR representative,"['HR', 'REPRESENTATIVE']","['union', 'representatives', 'internal', 'communication', 'an', 'HR', 'representative']",0.345766771
+146,150,DIRECTOR OF APPLICATIONS,150,,"['DIRECTOR', 'OF', 'APPLICATIONS']",[],0
+147,151,MICHAEL'S ARTS AND CRAFTS STORE,151,,"[""MICHAEL'S"", 'ARTS', 'AND', 'CRAFTS', 'STORE']",[],0
+148,152,ACCOUNTANT,152,,['ACCOUNTANT'],[],0
+149,153,FINANCE ANALYST,153,a Finance Analyst's capabilities a remarkable finance analyst a talented finance analyst,"['FINANCE', 'ANALYST']","['a', 'Finance', ""Analyst's"", 'capabilities', 'a', 'remarkable', 'finance', 'analyst', 'a', 'talented', 'finance', 'analyst']",0.415733701
+150,154,ACCOUNTANT,154,,['ACCOUNTANT'],[],0
+151,155,SALE CONSULTANT,155,,"['SALE', 'CONSULTANT']",[],0
+152,156,FINANCE DIRECTOR,156,various executives,"['FINANCE', 'DIRECTOR']","['various', 'executives']",0.587579344
+153,157,TALENTED ARTS PROGRAM INSTRUCTIONAL COORDINATOR,157,a talented arts program instructional coordinator a talented arts program instructional coordinator,"['TALENTED', 'ARTS', 'PROGRAM', 'INSTRUCTIONAL', 'COORDINATOR']","['a', 'talented', 'arts', 'program', 'instructional', 'coordinator', 'a', 'talented', 'arts', 'program', 'instructional', 'coordinator']",0.422800441
+154,158,CUSTOMER SERVICE ADVOCATE II,158,,"['CUSTOMER', 'SERVICE', 'ADVOCATE', 'II']",[],0
+155,159,VISUAL ARTS TEACHER,159,,"['VISUAL', 'ARTS', 'TEACHER']",[],0
+156,160,BANKING,160,the financial intern's analytical groundwork,['BANKING'],"['the', 'financial', ""intern's"", 'analytical', 'groundwork']",0.543674946
+157,161,FAMILY AND COMMUNITY ADVOCATE,161,,"['FAMILY', 'AND', 'COMMUNITY', 'ADVOCATE']",[],0
+158,162,SENIOR SPECIALTY SALES REPRESENTATIVE,162,a seasoned Bio-pharmaceutical Sales Representative Senior Vice-President and Chief Information Officer an exceptional sales representative,"['SENIOR', 'SPECIALTY', 'SALES', 'REPRESENTATIVE']","['a', 'seasoned', 'Bio-pharmaceutical', 'Sales', 'Representative', 'Senior', 'Vice-President', 'and', 'Chief', 'Information', 'Officer', 'an', 'exceptional', 'sales', 'representative']",0.363010814
+159,163,CERTIFIED CUSTOM FRAMER,163,,"['CERTIFIED', 'CUSTOM', 'FRAMER']",[],0
+160,164,RETAIL BANKING DIRECTOR,164,,"['RETAIL', 'BANKING', 'DIRECTOR']",[],0
+161,165,KEY ACCOUNT MANAGER,165,a medical support assistant C-Suite executives a seasoned supervisor C-suite executives,"['KEY', 'ACCOUNT', 'MANAGER']","['a', 'medical', 'support', 'assistant', 'C-Suite', 'executives', 'a', 'seasoned', 'supervisor', 'C-suite', 'executives']",0.552235527
+162,166,MEDICAL BILLING SPECIALIST,166,senior executives,"['MEDICAL', 'BILLING', 'SPECIALIST']","['senior', 'executives']",0.647179166
+163,167,INSTRUCTIONAL COACH,167,,"['INSTRUCTIONAL', 'COACH']",[],0
+164,168,AVIATION ELECTRONICS TECHNICIAN,168,,"['AVIATION', 'ELECTRONICS', 'TECHNICIAN']",[],0
+165,169,INFORMATION TECHNOLOGY MANAGER / NETWORK ENGINEER,169,,"['INFORMATION', 'TECHNOLOGY', 'MANAGER', '/', 'NETWORK', 'ENGINEER']",[],0
+166,170,SENIOR MEMBER ADVOCATE,170,,"['SENIOR', 'MEMBER', 'ADVOCATE']",[],0
+167,171,WAREHOUSE LEAD,171,,"['WAREHOUSE', 'LEAD']",[],0
+168,172,HR ASSISTANT,172,,"['HR', 'ASSISTANT']",[],0
+169,173,ENGLISH LANGUAGE ARTS TEACHER,173,their advisory role,"['ENGLISH', 'LANGUAGE', 'ARTS', 'TEACHER']","['their', 'advisory', 'role']",0.448137173
+170,174,FINANCE COORDINATOR,174,,"['FINANCE', 'COORDINATOR']",[],0
+171,175,BANKING,175,a skilled inside sales representative my internship,['BANKING'],"['a', 'skilled', 'inside', 'sales', 'representative', 'my', 'internship']",0.447184315
+172,176,BENEFIT ADVOCATE SUPERVISOR,176,Benefit Advocate Supervisor licensed insurance agents,"['BENEFIT', 'ADVOCATE', 'SUPERVISOR']","['Benefit', 'Advocate', 'Supervisor', 'licensed', 'insurance', 'agents']",0.48088108
+173,177,SALES & SERVICE ASSOCIATE,177,,"['SALES', '&', 'SERVICE', 'ASSOCIATE']",[],0
+174,178,FAMILY ADVOCATE,178,,"['FAMILY', 'ADVOCATE']",[],0
+175,179,PROGRAM MANAGER,179,,"['PROGRAM', 'MANAGER']",[],0
+176,180,HR EXECUTIVE,180,,"['HR', 'EXECUTIVE']",[],0
+177,181,STAFF ACCOUNTANT,181,,"['STAFF', 'ACCOUNTANT']",[],0
+178,182,INFORMATION TECHNOLOGY (IT) SPECIALIST,182,,"['INFORMATION', 'TECHNOLOGY', '(IT)', 'SPECIALIST']",[],0
+179,183,HR DIRECTOR,183,,"['HR', 'DIRECTOR']",[],0
+180,184,DRIVER,184,,['DRIVER'],[],0
+181,185,TUTORING CONSULTANT,185,school library media specialist,"['TUTORING', 'CONSULTANT']","['school', 'library', 'media', 'specialist']",0.901125172
+182,186,DIRECTOR OF HR,186,,"['DIRECTOR', 'OF', 'HR']",[],0
+183,187,SENIOR LENDING OFFICER - VP EXECUTIVE OFFICER,187,a senior lending officer,"['SENIOR', 'LENDING', 'OFFICER', '-', 'VP', 'EXECUTIVE', 'OFFICER']","['a', 'senior', 'lending', 'officer']",0.319747236
+184,189,GLOBAL FINANCE ACCOUNTANT,189,,"['GLOBAL', 'FINANCE', 'ACCOUNTANT']",[],0
+185,190,REGIONAL HR DEPUTY MANAGER,190,,"['REGIONAL', 'HR', 'DEPUTY', 'MANAGER']",[],0
+186,191,FINANCE MANAGER,191,executive oversight,"['FINANCE', 'MANAGER']","['executive', 'oversight']",0.476042518
+187,192,HUMAN RESOURCES PROFESSIONAL,192,,"['HUMAN', 'RESOURCES', 'PROFESSIONAL']",[],0
+188,193,HR CLERK,193,,"['HR', 'CLERK']",[],0
+189,194,ACCOUNTANT,194,,['ACCOUNTANT'],[],0
+190,195,INFORMATION TECHNOLOGY SPECIALIST,195,the Specialist this specialist,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']","['the', 'Specialist', 'this', 'specialist']",0.29135032
+191,197,VICE PRESIDENT-BUSINESS BANKING SALES MANAGER AND HEALTHCARE SPECIALTY BANKER,197,an outstanding healthcare specialist an outstanding banking executive,"['VICE', 'PRESIDENT-BUSINESS', 'BANKING', 'SALES', 'MANAGER', 'AND', 'HEALTHCARE', 'SPECIALTY', 'BANKER']","['an', 'outstanding', 'healthcare', 'specialist', 'an', 'outstanding', 'banking', 'executive']",0.180777414
+192,198,FINANCE BUSINESS PARTNER,198,,"['FINANCE', 'BUSINESS', 'PARTNER']",[],0
+193,199,OPERATIONS RESEARCH ANALYST,199,Operations Research Analyst,"['OPERATIONS', 'RESEARCH', 'ANALYST']","['Operations', 'Research', 'Analyst']",0.626963787
+194,200,AVIATION SUPPLY SPECIALIST,200,radiological control technician,"['AVIATION', 'SUPPLY', 'SPECIALIST']","['radiological', 'control', 'technician']",0.431908962
+195,201,AVIATION SAFETY ASSISTANT,201,,"['AVIATION', 'SAFETY', 'ASSISTANT']",[],0
+196,202,SOFTWARE QUALITY ASSURANCE ANALYST II,202,,"['SOFTWARE', 'QUALITY', 'ASSURANCE', 'ANALYST', 'II']",[],0
+197,203,DIRECTOR OF FINANCE,203,,"['DIRECTOR', 'OF', 'FINANCE']",[],0
+198,204,HR MANAGER,204,,"['HR', 'MANAGER']",[],0
+199,205,ACCOUNTANT,205,,['ACCOUNTANT'],[],0
+200,206,FINANCIAL ANALYST,206,a talented financial analyst a talented financial analyst,"['FINANCIAL', 'ANALYST']","['a', 'talented', 'financial', 'analyst', 'a', 'talented', 'financial', 'analyst']",0.564562609
+201,207,"GOVERNMENT RELATIONS, COMMUNICATIONS AND ORGANIZATIONAL DEVELOPMENT DIRECTOR",207,internal and external partners,"['GOVERNMENT', 'RELATIONS,', 'COMMUNICATIONS', 'AND', 'ORGANIZATIONAL', 'DEVELOPMENT', 'DIRECTOR']","['internal', 'and', 'external', 'partners']",0.430931009
+202,208,PERSONAL TRAINER,208,,"['PERSONAL', 'TRAINER']",[],0
+203,209,VP OF FINANCE,209,an exceptional finance assistant,"['VP', 'OF', 'FINANCE']","['an', 'exceptional', 'finance', 'assistant']",0.381474845
+204,210,SOFTWARE ENGINEER,210,,"['SOFTWARE', 'ENGINEER']",[],0
+205,212,PROGRAM ADMINISTRATOR,212,Program Administrator the Program Administrators adeptness,"['PROGRAM', 'ADMINISTRATOR']","['Program', 'Administrator', 'the', 'Program', 'Administrators', 'adeptness']",0.652368516
+206,213,ASSISTANT DIRECTOR,213,,"['ASSISTANT', 'DIRECTOR']",[],0
+207,214,ACCOUNTANT,214,,['ACCOUNTANT'],[],0
+208,215,SENIOR ACCOUNTANT,215,international payrolls international payroll compliance auditors international payrolls,"['SENIOR', 'ACCOUNTANT']","['international', 'payrolls', 'international', 'payroll', 'compliance', 'auditors', 'international', 'payrolls']",0.54054884
+209,216,SENIOR SALES MANAGEMENT CONSULTANT,216,,"['SENIOR', 'SALES', 'MANAGEMENT', 'CONSULTANT']",[],0
+210,217,ACCOUNTANT,217,internal and external auditors a Supervisor Accountant,['ACCOUNTANT'],"['internal', 'and', 'external', 'auditors', 'a', 'Supervisor', 'Accountant']",0.64436794
+211,218,DIRECTOR OF THEATER,218,,"['DIRECTOR', 'OF', 'THEATER']",[],0
+212,219,HR ASSOCIATE MOBILIZATION COORDINATOR,219,international assignments,"['HR', 'ASSOCIATE', 'MOBILIZATION', 'COORDINATOR']","['international', 'assignments']",0.458092913
+213,220,DIRECTOR OF INFORMATION TECHNOLOGY AND ANALYTICS,220,a Senior Specialty Sales Representative,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY', 'AND', 'ANALYTICS']","['a', 'Senior', 'Specialty', 'Sales', 'Representative']",0.282536005
+214,221,PROJECT COORDINATOR,221,,"['PROJECT', 'COORDINATOR']",[],0
+215,222,HEALTHCARE CONSULTANT,222,executives,"['HEALTHCARE', 'CONSULTANT']",['executives'],0.593621655
+216,223,GROUP EXERCISE FITNESS INSTRUCTOR,223,,"['GROUP', 'EXERCISE', 'FITNESS', 'INSTRUCTOR']",[],0
+217,224,LANGUAGE ARTS TEACHER,224,advisor,"['LANGUAGE', 'ARTS', 'TEACHER']",['advisor'],0.724397706
+218,225,HR BUSINESS PARTNER,225,,"['HR', 'BUSINESS', 'PARTNER']",[],0
+219,226,PROGRAMME FINANCE ASSOCIATE,226,,"['PROGRAMME', 'FINANCE', 'ASSOCIATE']",[],0
+220,227,INFORMATION TECHNOLOGY CERTIFIED TECHNICIAN,227,this technicians commitment the senior technical support analyst,"['INFORMATION', 'TECHNOLOGY', 'CERTIFIED', 'TECHNICIAN']","['this', 'technicians', 'commitment', 'the', 'senior', 'technical', 'support', 'analyst']",0.402489469
+221,228,PROJECT ACCOUNTANT,228,internal controls,"['PROJECT', 'ACCOUNTANT']","['internal', 'controls']",0.544416524
+222,229,HR SPECIALIST,229,the HR Specialist's innovative approach internship development the internship initiatives,"['HR', 'SPECIALIST']","['the', 'HR', ""Specialist's"", 'innovative', 'approach', 'internship', 'development', 'the', 'internship', 'initiatives']",0.261644922
+223,230,ADVOCATE,230,a personal trainer a trusted advisor,['ADVOCATE'],"['a', 'personal', 'trainer', 'a', 'trusted', 'advisor']",0.336556266
+224,232,LIBRARY EDUCATIONAL AIDE,232,an intern,"['LIBRARY', 'EDUCATIONAL', 'AIDE']","['an', 'intern']",0.877899333
+225,233,PROJECT COORDINATOR,233,,"['PROJECT', 'COORDINATOR']",[],0
+226,234,UNMANNED AVIATION TECHNICIAN SUPERVISOR,234,,"['UNMANNED', 'AVIATION', 'TECHNICIAN', 'SUPERVISOR']",[],0
+227,235,HR MANAGER/GENERALIST,235,,"['HR', 'MANAGER/GENERALIST']",[],0
+228,236,ENGLISH LANGUAGE ARTS TEACHER,236,,"['ENGLISH', 'LANGUAGE', 'ARTS', 'TEACHER']",[],0
+229,237,STUDENT TEACHER,237,both a crew trainer the Visual Arts Specialist,"['STUDENT', 'TEACHER']","['both', 'a', 'crew', 'trainer', 'the', 'Visual', 'Arts', 'Specialist']",0.556800707
+230,238,HR GENERALIST,238,a trusted advisor,"['HR', 'GENERALIST']","['a', 'trusted', 'advisor']",0.492208958
+231,239,AVID TUTOR,239,an equipment operator,"['AVID', 'TUTOR']","['an', 'equipment', 'operator']",0.708499912
+232,240,HR SERVICES REPRESENTATIVE,240,the HR services representative's credentials,"['HR', 'SERVICES', 'REPRESENTATIVE']","['the', 'HR', 'services', ""representative's"", 'credentials']",0.340721623
+233,241,FULL TIME STUDENT/INTERN,241,Business Process Analyst,"['FULL', 'TIME', 'STUDENT/INTERN']","['Business', 'Process', 'Analyst']",0.708543586
+234,242,GLOBAL HR MANAGER,242,an HR business analyst international complexities,"['GLOBAL', 'HR', 'MANAGER']","['an', 'HR', 'business', 'analyst', 'international', 'complexities']",0.266418081
+235,243,FIELD PROJECT SUPERVISOR,243,supervisory positions this supervisor,"['FIELD', 'PROJECT', 'SUPERVISOR']","['supervisory', 'positions', 'this', 'supervisor']",0.500057254
+236,244,TRAINING MANAGER,244,,"['TRAINING', 'MANAGER']",[],0
+237,245,EMPLOYEE RELATIONS CONSULTANT,245,,"['EMPLOYEE', 'RELATIONS', 'CONSULTANT']",[],0
+238,246,ACCOUNTANT II,246,,"['ACCOUNTANT', 'II']",[],0
+239,247,PA MEDIA GROUP,247,a highly skilled healthcare analyst,"['PA', 'MEDIA', 'GROUP']","['a', 'highly', 'skilled', 'healthcare', 'analyst']",0.523354917
+240,248,INFORMATION TECHNOLOGY SPECIALIST,248,,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']",[],0
+241,249,IMPACT,249,a healthcare specialist Healthcare Specialist and Combat Medic,['IMPACT'],"['a', 'healthcare', 'specialist', 'Healthcare', 'Specialist', 'and', 'Combat', 'Medic']",0.837409584
+242,250,"ADJUNCT FACULTY, ZANVYL KREIGER SCHOOL OF ARTS AND SCIENCES, ADVANCED ACADEMIC PROGRAMS",250,,"['ADJUNCT', 'FACULTY,', 'ZANVYL', 'KREIGER', 'SCHOOL', 'OF', 'ARTS', 'AND', 'SCIENCES,', 'ADVANCED', 'ACADEMIC', 'PROGRAMS']",[],0
+243,251,PRACTICE MANAGER,251,a Certified Nursing Assistant over the past eleven years are truly commendable,"['PRACTICE', 'MANAGER']","['a', 'Certified', 'Nursing', 'Assistant', 'over', 'the', 'past', 'eleven', 'years', 'are', 'truly', 'commendable']",0.484541116
+244,252,ELECTRONIC HEALTH RECORD OPTIMIZATION SPECIALIST,252,an information technology intern,"['ELECTRONIC', 'HEALTH', 'RECORD', 'OPTIMIZATION', 'SPECIALIST']","['an', 'information', 'technology', 'intern']",0.60786495
+245,253,"MANAGER, CONTINUOUS IMPROVEMENT",253,an aviation operation specialist,"['MANAGER,', 'CONTINUOUS', 'IMPROVEMENT']","['an', 'aviation', 'operation', 'specialist']",0.508902065
+246,254,SUMMER CAMP COUNSELOR,254,a production assistant intern,"['SUMMER', 'CAMP', 'COUNSELOR']","['a', 'production', 'assistant', 'intern']",0.645393713
+247,255,STAFF ACCOUNTANT,255,,"['STAFF', 'ACCOUNTANT']",[],0
+248,256,ACCOUNTANT,256,,['ACCOUNTANT'],[],0
+249,257,"CORPORATE BANKING ASSISTANT, INTERN",257,the corporate banking assistant intern Corporate Banking Assistant during their internship a talented Corporate Banking Assistant intern their internship international projects,"['CORPORATE', 'BANKING', 'ASSISTANT,', 'INTERN']","['the', 'corporate', 'banking', 'assistant', 'intern', 'Corporate', 'Banking', 'Assistant', 'during', 'their', 'internship', 'a', 'talented', 'Corporate', 'Banking', 'Assistant', 'intern', 'their', 'internship', 'international', 'projects']",0.508751966
+250,258,"MANAGER, FINANCE",258,,"['MANAGER,', 'FINANCE']",[],0
+251,259,SENIOR ACCOUNTANT,259,both the supervisor accountant detailed internal reports,"['SENIOR', 'ACCOUNTANT']","['both', 'the', 'supervisor', 'accountant', 'detailed', 'internal', 'reports']",0.467095629
+252,260,PATIENT ADVOCATE,260,,"['PATIENT', 'ADVOCATE']",[],0
+253,261,FINANCE MANAGER,261,,"['FINANCE', 'MANAGER']",[],0
+254,262,ADMINISTRATIVE ASSISTANT DIRECTOR HUMAN RESOURCES MANAGER PRODUCTION MANAGER ENGINEERING,262,,"['ADMINISTRATIVE', 'ASSISTANT', 'DIRECTOR', 'HUMAN', 'RESOURCES', 'MANAGER', 'PRODUCTION', 'MANAGER', 'ENGINEERING']",[],0
+255,263,GENERAL ACCOUNTANT,263,,"['GENERAL', 'ACCOUNTANT']",[],0
+256,264,CUSTOMER SERVICE REPRESENTATIVE,264,,"['CUSTOMER', 'SERVICE', 'REPRESENTATIVE']",[],0
+257,265,INFORMATION TECHNOLOGY INTERN (TEST AUTOMATION ENGINEER),265,a database programmer their internship an intern,"['INFORMATION', 'TECHNOLOGY', 'INTERN', '(TEST', 'AUTOMATION', 'ENGINEER)']","['a', 'database', 'programmer', 'their', 'internship', 'an', 'intern']",0.408299498
+258,266,FINANCE SPECIALIST,266,a Finance Specialist an exceptionally skilled Finance Specialist a finance specialist a talented finance specialist an exceptional Finance Specialists growth the finance specialist,"['FINANCE', 'SPECIALIST']","['a', 'Finance', 'Specialist', 'an', 'exceptionally', 'skilled', 'Finance', 'Specialist', 'a', 'finance', 'specialist', 'a', 'talented', 'finance', 'specialist', 'an', 'exceptional', 'Finance', 'Specialists', 'growth', 'the', 'finance', 'specialist']",0.286140639
+259,267,CUSTOMER SERVICE ADVOCATE,267,,"['CUSTOMER', 'SERVICE', 'ADVOCATE']",[],0
+260,268,INTERNATIONAL CERTIFICATION PROGRAM MANAGEMENT,268,,"['INTERNATIONAL', 'CERTIFICATION', 'PROGRAM', 'MANAGEMENT']",[],0
+261,269,"SUPERVISOR, ACCOUNTANT",269,a Supervisor an exceptional supervisor,"['SUPERVISOR,', 'ACCOUNTANT']","['a', 'Supervisor', 'an', 'exceptional', 'supervisor']",0.689725034
+262,270,HR CUSTOMER SERVICE REPRESENTATIVE,270,an exceptional HR representative,"['HR', 'CUSTOMER', 'SERVICE', 'REPRESENTATIVE']","['an', 'exceptional', 'HR', 'representative']",0.266111987
+263,271,FINANCE DIRECTOR,271,a trusted financial executive,"['FINANCE', 'DIRECTOR']","['a', 'trusted', 'financial', 'executive']",0.407452751
+264,272,HR BUSINESS PARTNER II,272,,"['HR', 'BUSINESS', 'PARTNER', 'II']",[],0
+265,273,MARKETING MANAGER,273,the Finance Controller's analytical approach,"['MARKETING', 'MANAGER']","['the', 'Finance', ""Controller's"", 'analytical', 'approach']",0.480988795
+266,274,OPERATIONS MANAGER,274,,"['OPERATIONS', 'MANAGER']",[],0
+267,275,OWNER/OPERATOR,275,a highly skilled Owner/Operator,['OWNER/OPERATOR'],"['a', 'highly', 'skilled', 'Owner/Operator']",0.824545239
+268,276,FINANCE MANAGER,276,a seasoned finance operations supervisor,"['FINANCE', 'MANAGER']","['a', 'seasoned', 'finance', 'operations', 'supervisor']",0.355433516
+269,277,HUMAN RESOURCES MANAGER,277,,"['HUMAN', 'RESOURCES', 'MANAGER']",[],0
+270,279,INFORMATION TECHNOLOGY SPECIALIST,279,an Information Technology Specialist,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']","['an', 'Information', 'Technology', 'Specialist']",0.30556734
+271,280,"FACULTY, CLINICAL INSTRUCTOR, & CLINICAL COORDINATOR",280,,"['FACULTY,', 'CLINICAL', 'INSTRUCTOR,', '&', 'CLINICAL', 'COORDINATOR']",[],0
+272,281,INFORMATION TECHNOLOGY MANAGER/ANALYST,281,,"['INFORMATION', 'TECHNOLOGY', 'MANAGER/ANALYST']",[],0
+273,282,SENIOR ACCOUNTANT,282,,"['SENIOR', 'ACCOUNTANT']",[],0
+274,283,ACCOUNTANT,283,,['ACCOUNTANT'],[],0
+275,284,GENERAL MANAGER,284,,"['GENERAL', 'MANAGER']",[],0
+276,285,OPERATIONS MANAGER,285,an administrator,"['OPERATIONS', 'MANAGER']","['an', 'administrator']",0.447832589
+277,286,FINANCE DIRECTOR,286,a finance specialist internal and external stakeholders external auditors,"['FINANCE', 'DIRECTOR']","['a', 'finance', 'specialist', 'internal', 'and', 'external', 'stakeholders', 'external', 'auditors']",0.367794822
+278,287,EXECUTIVE DIRECTOR,287,,"['EXECUTIVE', 'DIRECTOR']",[],0
+279,288,ARTS EDUCATOR,288,an advisor the advisor,"['ARTS', 'EDUCATOR']","['an', 'advisor', 'the', 'advisor']",0.425388795
+280,289,BRANCH BANKING COORDINATOR,289,,"['BRANCH', 'BANKING', 'COORDINATOR']",[],0
+281,290,RDA,290,a skilled dental assistant Dental Assistant,['RDA'],"['a', 'skilled', 'dental', 'assistant', 'Dental', 'Assistant']",0.879333673
+282,291,FITNESS INSTRUCTOR,291,a veteran personal trainer a finance analyst sterilization technician,"['FITNESS', 'INSTRUCTOR']","['a', 'veteran', 'personal', 'trainer', 'a', 'finance', 'analyst', 'sterilization', 'technician']",0.377290713
+283,292,FINANCE SPECIALIST,292,industry executives both internal and external stakeholders internal and external customers,"['FINANCE', 'SPECIALIST']","['industry', 'executives', 'both', 'internal', 'and', 'external', 'stakeholders', 'internal', 'and', 'external', 'customers']",0.267437073
+284,293,DANCE INSTRUCTOR,293,,"['DANCE', 'INSTRUCTOR']",[],0
+285,294,ADMINISTRATIVE MANAGER,294,a dedicated operations technician,"['ADMINISTRATIVE', 'MANAGER']","['a', 'dedicated', 'operations', 'technician']",0.431419773
+286,295,PRODUCTION SUPERVISOR / VALUE STREAM LEADER,295,Aviation Electronics Technician,"['PRODUCTION', 'SUPERVISOR', '/', 'VALUE', 'STREAM', 'LEADER']","['Aviation', 'Electronics', 'Technician']",0.588643455
+287,296,ADMINISTRATIVE ASSISTANT,296,,"['ADMINISTRATIVE', 'ASSISTANT']",[],0
+288,297,HR GENERALIST,297,,"['HR', 'GENERALIST']",[],0
+289,298,OPERATIONS AND FINANCE MANAGER,298,,"['OPERATIONS', 'AND', 'FINANCE', 'MANAGER']",[],0
+290,299,ASSISTANT ACCOUNTANT,299,,"['ASSISTANT', 'ACCOUNTANT']",[],0
+291,300,DIRECTOR OF FINANCE,300,,"['DIRECTOR', 'OF', 'FINANCE']",[],0
+292,301,STAFF ACCOUNTANT,301,,"['STAFF', 'ACCOUNTANT']",[],0
+293,302,HR MANAGER,302,an HR Representative,"['HR', 'MANAGER']","['an', 'HR', 'Representative']",0.192707621
+294,303,HR CLERK,303,,"['HR', 'CLERK']",[],0
+295,304,STAFF ACCOUNTANT,304,a certified fitness trainer,"['STAFF', 'ACCOUNTANT']","['a', 'certified', 'fitness', 'trainer']",0.619340698
+296,305,HR GENERALIST,305,,"['HR', 'GENERALIST']",[],0
+297,306,LEAD INFORMATION TECHNOLOGY SUPPORT SPECIALIST,306,,"['LEAD', 'INFORMATION', 'TECHNOLOGY', 'SUPPORT', 'SPECIALIST']",[],0
+298,307,"DIRECTOR, FINANCE",307,,"['DIRECTOR,', 'FINANCE']",[],0
+299,308,INFORMATION TECHNOLOGY HELP DESK SPECIALIST,308,a talented information technology help desk specialist,"['INFORMATION', 'TECHNOLOGY', 'HELP', 'DESK', 'SPECIALIST']","['a', 'talented', 'information', 'technology', 'help', 'desk', 'specialist']",0.362137769
+300,309,HR DIRECTOR/ADMINISTRATOR,309,,"['HR', 'DIRECTOR/ADMINISTRATOR']",[],0
+301,310,ACCOUNTANT,310,,['ACCOUNTANT'],[],0
+302,311,AVIATION SUPPLY SPECIALIST,311,,"['AVIATION', 'SUPPLY', 'SPECIALIST']",[],0
+303,312,DIRECTOR OF INFORMATION TECHNOLOGY,312,senior officers,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY']","['senior', 'officers']",0.615487578
+304,313,FITNESS TRAINEE/RECREATION MANAGEMENT INTERN,313,a recreation coordinator international tournaments,"['FITNESS', 'TRAINEE/RECREATION', 'MANAGEMENT', 'INTERN']","['a', 'recreation', 'coordinator', 'international', 'tournaments']",0.430647817
+305,314,SUBJECT MATTER EXPERT (INFORMATION TECHNOLOGY ASSISTANT),314,Subject Matter Expert and Information Technology Assistant,"['SUBJECT', 'MATTER', 'EXPERT', '(INFORMATION', 'TECHNOLOGY', 'ASSISTANT)']","['Subject', 'Matter', 'Expert', 'and', 'Information', 'Technology', 'Assistant']",0.624225134
+306,315,ACCOUNTANT,315,,['ACCOUNTANT'],[],0
+307,316,PACKAGING BUYER/RESEARCH AND DEVELOPMENT LEAD,316,an Assistant Principal,"['PACKAGING', 'BUYER/RESEARCH', 'AND', 'DEVELOPMENT', 'LEAD']","['an', 'Assistant', 'Principal']",0.427936865
+308,317,CORPORATE CONTROLLER,317,an Inside Sales Representative,"['CORPORATE', 'CONTROLLER']","['an', 'Inside', 'Sales', 'Representative']",0.648688232
+309,318,FINANCE MANAGER,318,,"['FINANCE', 'MANAGER']",[],0
+310,319,HR ASSISTANT,319,,"['HR', 'ASSISTANT']",[],0
+311,320,RN / ASST. HEAD NURSE PRACTICE LEADER,320,an assistant head nurse,"['RN', '/', 'ASST.', 'HEAD', 'NURSE', 'PRACTICE', 'LEADER']","['an', 'assistant', 'head', 'nurse']",0.545980768
+312,321,THEATER ARTS TEACHER & PROGRAM DIRECTOR,321,,"['THEATER', 'ARTS', 'TEACHER', '&', 'PROGRAM', 'DIRECTOR']",[],0
+313,322,PAYROLL ACCOUNTANT,322,internal processes C-level executives,"['PAYROLL', 'ACCOUNTANT']","['internal', 'processes', 'C-level', 'executives']",0.580480929
+314,323,"DIRECTOR, COMPOUNDING SALES SPECIALIST",323,new sales representatives,"['DIRECTOR,', 'COMPOUNDING', 'SALES', 'SPECIALIST']","['new', 'sales', 'representatives']",0.402563033
+315,324,DIRECTOR OF FINANCE,324,,"['DIRECTOR', 'OF', 'FINANCE']",[],0
+316,325,ADVENTURE RUN COORDINATOR,325,,"['ADVENTURE', 'RUN', 'COORDINATOR']",[],0
+317,326,LANDSCAPE TECHNICIAN,326,Operations Supervisor to Loss Prevention/BSA Analyst showcased a strong commitment to risk management and fraud prevention a talented landscape technician,"['LANDSCAPE', 'TECHNICIAN']","['Operations', 'Supervisor', 'to', 'Loss', 'Prevention/BSA', 'Analyst', 'showcased', 'a', 'strong', 'commitment', 'to', 'risk', 'management', 'and', 'fraud', 'prevention', 'a', 'talented', 'landscape', 'technician']",0.566743097
+318,327,INFORMATION TECHNOLOGY SPECIALIST,327,the IT Specialist's ability this information technology specialist,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']","['the', 'IT', ""Specialist's"", 'ability', 'this', 'information', 'technology', 'specialist']",0.28189943
+319,328,ADMINISTRATOR OF INFORMATION TECHNOLOGY,328,,"['ADMINISTRATOR', 'OF', 'INFORMATION', 'TECHNOLOGY']",[],0
+320,329,ARTS INSTRUCTOR,329,,"['ARTS', 'INSTRUCTOR']",[],0
+321,330,HEALTH SYSTEMS ANALYST,330,a Clinical Research Coordinator Mentor a highly skilled health systems analyst,"['HEALTH', 'SYSTEMS', 'ANALYST']","['a', 'Clinical', 'Research', 'Coordinator', 'Mentor', 'a', 'highly', 'skilled', 'health', 'systems', 'analyst']",0.468889714
+322,331,CREATIVE ASSISTANT,331,a licensing assistant the Creative Assistant role a remarkable logistics coordinator a creative assistant Creative Assistant has showcased a remarkable blend of innovation and organization,"['CREATIVE', 'ASSISTANT']","['a', 'licensing', 'assistant', 'the', 'Creative', 'Assistant', 'role', 'a', 'remarkable', 'logistics', 'coordinator', 'a', 'creative', 'assistant', 'Creative', 'Assistant', 'has', 'showcased', 'a', 'remarkable', 'blend', 'of', 'innovation', 'and', 'organization']",0.498339562
+323,332,PROJECT ACCOUNTANT,332,a seasoned Purchasing Agent,"['PROJECT', 'ACCOUNTANT']","['a', 'seasoned', 'Purchasing', 'Agent']",0.561530846
+324,333,FINANCE SPECIALIST,333,an Accounts Payable Specialist the specialist,"['FINANCE', 'SPECIALIST']","['an', 'Accounts', 'Payable', 'Specialist', 'the', 'specialist']",0.326506207
+325,334,"PROFESSIONAL FITNESS TRAINER, GROUP INSTRUCTOR",334,,"['PROFESSIONAL', 'FITNESS', 'TRAINER,', 'GROUP', 'INSTRUCTOR']",[],0
+326,335,BANK OPERATIONS ANALYST,335,the bank operations analyst,"['BANK', 'OPERATIONS', 'ANALYST']","['the', 'bank', 'operations', 'analyst']",0.624685218
+327,336,HEALTH COACH,336,,"['HEALTH', 'COACH']",[],0
+328,337,CUSTOMER SERVICE REPRESENTATIVE,337,this supervisor brokers a customer service representative is crucial in sustaining that standard,"['CUSTOMER', 'SERVICE', 'REPRESENTATIVE']","['this', 'supervisor', 'brokers', 'a', 'customer', 'service', 'representative', 'is', 'crucial', 'in', 'sustaining', 'that', 'standard']",0.434309174
+329,338,CUSTOMER SERVICE ADVOCATE,338,a supervisory role,"['CUSTOMER', 'SERVICE', 'ADVOCATE']","['a', 'supervisory', 'role']",0.275130034
+330,339,RN/RN TEAM LEAD,339,the personal trainer a dedicated nurse executive,"['RN/RN', 'TEAM', 'LEAD']","['the', 'personal', 'trainer', 'a', 'dedicated', 'nurse', 'executive']",0.628268011
+331,340,CUSTOMER CARE ADVOCATE,340,,"['CUSTOMER', 'CARE', 'ADVOCATE']",[],0
+332,341,ADVISOR,341,,['ADVISOR'],[],0
+333,342,STAFF ACCOUNTANT,342,,"['STAFF', 'ACCOUNTANT']",[],0
+334,343,HR CONSULTING,343,internal job portals,"['HR', 'CONSULTING']","['internal', 'job', 'portals']",0.71400236
+335,344,GROUP FITNESS INSTRUCTOR,344,,"['GROUP', 'FITNESS', 'INSTRUCTOR']",[],0
+336,345,PLACEMENT AGENT / DORADO BEACH RESORT,345,a dedicated placement agent,"['PLACEMENT', 'AGENT', '/', 'DORADO', 'BEACH', 'RESORT']","['a', 'dedicated', 'placement', 'agent']",0.440888612
+337,346,ACCOUNTANT,346,,['ACCOUNTANT'],[],0
+338,347,INFORMATION TECHNOLOGY (INTERNSHIP),347,their internship a recent internship over 200 technicians their internship,"['INFORMATION', 'TECHNOLOGY', '(INTERNSHIP)']","['their', 'internship', 'a', 'recent', 'internship', 'over', '200', 'technicians', 'their', 'internship']",0.384993202
+339,348,ADMINISTRATIVE ASSISTANT,348,top-tier executives,"['ADMINISTRATIVE', 'ASSISTANT']","['top-tier', 'executives']",0.719152676
+340,349,CORPORATE DIRECTOR OF FINANCE,349,analysts,"['CORPORATE', 'DIRECTOR', 'OF', 'FINANCE']",['analysts'],0.7029565
+341,350,BUDGET FINANCE SPECIALIST SENIOR,350,Senior Budget Finance Specialist,"['BUDGET', 'FINANCE', 'SPECIALIST', 'SENIOR']","['Senior', 'Budget', 'Finance', 'Specialist']",0.492473777
+342,351,CUSTOMER SERVICE SPECIALIST,351,a lead architect,"['CUSTOMER', 'SERVICE', 'SPECIALIST']","['a', 'lead', 'architect']",0.37983857
+343,352,VP OF INFORMATION TECHNOLOGY,352,a Planner/Scheduler,"['VP', 'OF', 'INFORMATION', 'TECHNOLOGY']","['a', 'Planner/Scheduler']",0.291731699
+344,353,DIRECTOR OF INFORMATION TECHNOLOGY,353,,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY']",[],0
+345,354,ENUMERATOR,354,,['ENUMERATOR'],[],0
+346,355,GROUP FITNESS INSTRUCTOR,355,an administrative office assistant an exceptional executive assistant,"['GROUP', 'FITNESS', 'INSTRUCTOR']","['an', 'administrative', 'office', 'assistant', 'an', 'exceptional', 'executive', 'assistant']",0.473153023
+347,356,YOGA INSTRUCTOR,356,,"['YOGA', 'INSTRUCTOR']",[],0
+348,357,SALES ASSOCIATE/CASHIER,357,a Quality Analyst,"['SALES', 'ASSOCIATE/CASHIER']","['a', 'Quality', 'Analyst']",0.465184229
+349,358,SERVER,358,various international markets,['SERVER'],"['various', 'international', 'markets']",0.684729251
+350,359,CONSULTANT,359,,['CONSULTANT'],[],0
+351,360,IT MANAGER,360,an Inside Sales Representative,"['IT', 'MANAGER']","['an', 'Inside', 'Sales', 'Representative']",0.390695775
+352,361,SUPERINTENDENT II,361,,"['SUPERINTENDENT', 'II']",[],0
+353,362,COMMUNITY RELATIONS ADVOCATE SUPERVISOR,362,a remarkable community relations advocate supervisor,"['COMMUNITY', 'RELATIONS', 'ADVOCATE', 'SUPERVISOR']","['a', 'remarkable', 'community', 'relations', 'advocate', 'supervisor']",0.418516849
+354,363,GROUP FITNESS INSTRUCTOR,363,,"['GROUP', 'FITNESS', 'INSTRUCTOR']",[],0
+355,364,CLAIMS SERVICE SPECIALIST,364,,"['CLAIMS', 'SERVICE', 'SPECIALIST']",[],0
+356,365,SENIOR DIRECTOR OF BUSINESS OPERATIONS - HEALTHCARE,365,,"['SENIOR', 'DIRECTOR', 'OF', 'BUSINESS', 'OPERATIONS', '-', 'HEALTHCARE']",[],0
+357,366,HR GENERALIST,366,,"['HR', 'GENERALIST']",[],0
+358,367,HR MANAGER,367,,"['HR', 'MANAGER']",[],0
+359,368,"MANAGER, DIGITAL MARKETING AND COMMUNICATIONS",368,,"['MANAGER,', 'DIGITAL', 'MARKETING', 'AND', 'COMMUNICATIONS']",[],0
+360,369,DIRECTOR OF INFORMATION TECHNOLOGY,369,,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY']",[],0
+361,370,EXECUTIVE DIRECTOR,370,the executive's qualifications,"['EXECUTIVE', 'DIRECTOR']","['the', ""executive's"", 'qualifications']",0.519028352
+362,371,SYSTEM ADMINISTRATOR/ASSISTANT SUPERVISOR,371,technical architectures,"['SYSTEM', 'ADMINISTRATOR/ASSISTANT', 'SUPERVISOR']","['technical', 'architectures']",0.738181706
+363,372,HR MANAGER/BUSINESS PARTNER,372,executive-level discussions,"['HR', 'MANAGER/BUSINESS', 'PARTNER']","['executive-level', 'discussions']",0.717304886
+364,374,"SENIOR COMMERCIAL BUSINESS BANKING RELATIONSHIP MANAGER, VP",374,,"['SENIOR', 'COMMERCIAL', 'BUSINESS', 'BANKING', 'RELATIONSHIP', 'MANAGER,', 'VP']",[],0
+365,375,SENIOR SUPPLY SERGEANT,375,a Production Supervisor,"['SENIOR', 'SUPPLY', 'SERGEANT']","['a', 'Production', 'Supervisor']",0.42257159
+366,376,HR COORDINATOR,376,the Coordinator's exceptional skills,"['HR', 'COORDINATOR']","['the', ""Coordinator's"", 'exceptional', 'skills']",0.36337073
+367,377,FINANCE MANAGER,377,astute financial advisors,"['FINANCE', 'MANAGER']","['astute', 'financial', 'advisors']",0.477871605
+368,378,HR ANALYST,378,the HR Analysts continued professional growth,"['HR', 'ANALYST']","['the', 'HR', 'Analysts', 'continued', 'professional', 'growth']",0.327421093
+369,379,FINANCE ASSISTANT,379,the finance assistant the finance assistant,"['FINANCE', 'ASSISTANT']","['the', 'finance', 'assistant', 'the', 'finance', 'assistant']",0.401933698
+370,380,SENIOR HR,380,Purchaser and Production Coordinator,"['SENIOR', 'HR']","['Purchaser', 'and', 'Production', 'Coordinator']",0.294708862
+371,381,SENIOR ACCOUNTANT,381,internal processes internal departments,"['SENIOR', 'ACCOUNTANT']","['internal', 'processes', 'internal', 'departments']",0.51708438
+372,382,PH INPATIENT/FINANCIAL ADVOCATE SUPERVISOR,382,and ultimately rising to the role of Financial Advocate Supervisor,"['PH', 'INPATIENT/FINANCIAL', 'ADVOCATE', 'SUPERVISOR']","['and', 'ultimately', 'rising', 'to', 'the', 'role', 'of', 'Financial', 'Advocate', 'Supervisor']",0.429239403
+373,383,SENIOR NETWORK SECURITY ENGINEER,383,,"['SENIOR', 'NETWORK', 'SECURITY', 'ENGINEER']",[],0
+374,384,ACCOUNTANT,384,an auditor an Auditor an internal audit score,['ACCOUNTANT'],"['an', 'auditor', 'an', 'Auditor', 'an', 'internal', 'audit', 'score']",0.68319594
+375,385,FITNESS CONSULTANT,385,a personal trainer,"['FITNESS', 'CONSULTANT']","['a', 'personal', 'trainer']",0.544059981
+376,386,LOGISTICS COORDINATOR,386,the logistics coordinator role,"['LOGISTICS', 'COORDINATOR']","['the', 'logistics', 'coordinator', 'role']",0.642439228
+377,387,SENIOR ACCOUNTANT,387,internal controls,"['SENIOR', 'ACCOUNTANT']","['internal', 'controls']",0.541837887
+378,388,INFORMATION TECHNOLOGY INSTRUCTOR,388,,"['INFORMATION', 'TECHNOLOGY', 'INSTRUCTOR']",[],0
+379,389,"VICE PRESIDENT, CORPORATE FINANCE",389,an exceptional finance executive an accomplished finance executive,"['VICE', 'PRESIDENT,', 'CORPORATE', 'FINANCE']","['an', 'exceptional', 'finance', 'executive', 'an', 'accomplished', 'finance', 'executive']",0.421193578
+380,390,CENTER DIRECTOR/HEAD START FAMILY ADVOCATE,390,,"['CENTER', 'DIRECTOR/HEAD', 'START', 'FAMILY', 'ADVOCATE']",[],0
+381,391,8TH GRADE LANGUAGE ARTS TEACHER,391,,"['8TH', 'GRADE', 'LANGUAGE', 'ARTS', 'TEACHER']",[],0
+382,392,MANAGED PRESSURE DRILLING FIELD SUPERVISOR,392,,"['MANAGED', 'PRESSURE', 'DRILLING', 'FIELD', 'SUPERVISOR']",[],0
+383,393,MARKETING AND CORPORATE COMMUNICATIONS MERCHANT SERVICES TRANSITION COMMUNICATIONS PROJECT,393,both internal and external stakeholders,"['MARKETING', 'AND', 'CORPORATE', 'COMMUNICATIONS', 'MERCHANT', 'SERVICES', 'TRANSITION', 'COMMUNICATIONS', 'PROJECT']","['both', 'internal', 'and', 'external', 'stakeholders']",0.339036716
+384,394,HR MANAGER,394,,"['HR', 'MANAGER']",[],0
+385,395,"COORDINATOR, DONOR RELATIONS",395,Coordinator in Donor Relations a coordinator,"['COORDINATOR,', 'DONOR', 'RELATIONS']","['Coordinator', 'in', 'Donor', 'Relations', 'a', 'coordinator']",0.704237145
+386,396,"SOHO PROPERTIES, SUMMER ANALYST",396,executive committee meetings,"['SOHO', 'PROPERTIES,', 'SUMMER', 'ANALYST']","['executive', 'committee', 'meetings']",0.703392233
+387,397,CUSTOMER CARE REPRESENTATIVE,397,,"['CUSTOMER', 'CARE', 'REPRESENTATIVE']",[],0
+388,398,SERGEANT E-5 AVIATION SUPPLY SPECIALIST,398,the aviation supply specialists ability a highly skilled aviation supply specialist,"['SERGEANT', 'E-5', 'AVIATION', 'SUPPLY', 'SPECIALIST']","['the', 'aviation', 'supply', 'specialists', 'ability', 'a', 'highly', 'skilled', 'aviation', 'supply', 'specialist']",0.317141311
+389,399,CONSULTANT,399,,['CONSULTANT'],[],0
+390,400,INFORMATION TECHNOLOGY PROVISIONING TECHNICIAN,400,a dedicated Information Technology Provisioning Technician,"['INFORMATION', 'TECHNOLOGY', 'PROVISIONING', 'TECHNICIAN']","['a', 'dedicated', 'Information', 'Technology', 'Provisioning', 'Technician']",0.415836912
+391,401,CASHIER,401,,['CASHIER'],[],0
+392,402,MAINTENANCE MECHANIC,402,a purchaser and production coordinator,"['MAINTENANCE', 'MECHANIC']","['a', 'purchaser', 'and', 'production', 'coordinator']",0.506512891
+393,403,ACCOUNTANT,403,,['ACCOUNTANT'],[],0
+394,404,FINANCE OFFICER,404,a skilled finance officer a Junior Auditor another accomplished finance officer,"['FINANCE', 'OFFICER']","['a', 'skilled', 'finance', 'officer', 'a', 'Junior', 'Auditor', 'another', 'accomplished', 'finance', 'officer']",0.372167355
+395,405,INSIDE SALES REPRESENTATIVE,405,the sales representative an inside sales representative,"['INSIDE', 'SALES', 'REPRESENTATIVE']","['the', 'sales', 'representative', 'an', 'inside', 'sales', 'representative']",0.482379991
+396,406,MANAGER / FITNESS INSTRUCTOR,406,,"['MANAGER', '/', 'FITNESS', 'INSTRUCTOR']",[],0
+397,407,AVIATION EXECUTIVE OFFICER,407,a remarkable aviation executive officer the aviation executive officer an aviation executive officer,"['AVIATION', 'EXECUTIVE', 'OFFICER']","['a', 'remarkable', 'aviation', 'executive', 'officer', 'the', 'aviation', 'executive', 'officer', 'an', 'aviation', 'executive', 'officer']",0.373577255
+398,408,INTERN,408,a dedicated intern their internships an intern,['INTERN'],"['a', 'dedicated', 'intern', 'their', 'internships', 'an', 'intern']",0.532872625
+399,409,CUSTOMER SERVICE REP 1 LEAD QUALITY ASSURANCE COACH ACCOUNT RELATIONSHIP SPECIALIST ONLINE,409,,"['CUSTOMER', 'SERVICE', 'REP', '1', 'LEAD', 'QUALITY', 'ASSURANCE', 'COACH', 'ACCOUNT', 'RELATIONSHIP', 'SPECIALIST', 'ONLINE']",[],0
+400,410,EXECUTIVE ASSISTANT/OFFICE MANAGER,410,executives international and domestic travel,"['EXECUTIVE', 'ASSISTANT/OFFICE', 'MANAGER']","['executives', 'international', 'and', 'domestic', 'travel']",0.383952276
+401,411,"PROGRAM MANAGER FINANCIAL MANAGER, FACILITIES MANAGER",411,,"['PROGRAM', 'MANAGER', 'FINANCIAL', 'MANAGER,', 'FACILITIES', 'MANAGER']",[],0
+402,412,REGISTERED NURSE CLINICAL CARE COORDINATOR- FIRST AID,412,a Mortgage Banking Doc Ops Specialist,"['REGISTERED', 'NURSE', 'CLINICAL', 'CARE', 'COORDINATOR-', 'FIRST', 'AID']","['a', 'Mortgage', 'Banking', 'Doc', 'Ops', 'Specialist']",0.647293863
+403,413,PRINCIPAL CONSULTANT,413,,"['PRINCIPAL', 'CONSULTANT']",[],0
+404,414,CERTIFIED NURSE ASSISTANT,414,an outstanding certified nurse assistant,"['CERTIFIED', 'NURSE', 'ASSISTANT']","['an', 'outstanding', 'certified', 'nurse', 'assistant']",0.560979603
+405,415,KIDS CLUB ATTENDANT,415,,"['KIDS', 'CLUB', 'ATTENDANT']",[],0
+406,416,PROJECT COORDINATOR ASSOCIATE,416,,"['PROJECT', 'COORDINATOR', 'ASSOCIATE']",[],0
+407,417,REVENUE CYCLE ADVOCATE,417,high-level executive support,"['REVENUE', 'CYCLE', 'ADVOCATE']","['high-level', 'executive', 'support']",0.646052742
+408,418,SENIOR INVESTMENT BANKING SALES ANALYST,418,,"['SENIOR', 'INVESTMENT', 'BANKING', 'SALES', 'ANALYST']",[],0
+409,419,VOLUNTEER,419,a Veterinarian Assistant certificate,['VOLUNTEER'],"['a', 'Veterinarian', 'Assistant', 'certificate']",0.72154948
+410,420,CASE MANAGER/OUTREACH ADVOCATE,420,representatives,"['CASE', 'MANAGER/OUTREACH', 'ADVOCATE']",['representatives'],0.510376943
+411,421,INFORMATION TECHNOLOGY SUPERVISOR,421,a radiology technologist,"['INFORMATION', 'TECHNOLOGY', 'SUPERVISOR']","['a', 'radiology', 'technologist']",0.322249621
+412,422,HR CONSULTANT,422,,"['HR', 'CONSULTANT']",[],0
+413,423,HEALTHCARE ASSOCIATE,423,,"['HEALTHCARE', 'ASSOCIATE']",[],0
+414,424,SENIOR APPLICATION SPECIALIST,424,,"['SENIOR', 'APPLICATION', 'SPECIALIST']",[],0
+415,425,INFORMATION TECHNOLOGY MANAGER,425,,"['INFORMATION', 'TECHNOLOGY', 'MANAGER']",[],0
+416,426,LEAD ACCOUNTANT,426,both internal and external stakeholders,"['LEAD', 'ACCOUNTANT']","['both', 'internal', 'and', 'external', 'stakeholders']",0.488558026
+417,427,COMMUNITY ADVOCATE,427,,"['COMMUNITY', 'ADVOCATE']",[],0
+418,428,ACCOUNTANT,428,internal controls internal controls,['ACCOUNTANT'],"['internal', 'controls', 'internal', 'controls']",0.624688921
+419,429,RECRUITER-IN-CHARGE,429,,['RECRUITER-IN-CHARGE'],[],0
+420,430,ACCOUNTANT I,430,,"['ACCOUNTANT', 'I']",[],0
+421,431,ACCOUNTANT,431,,['ACCOUNTANT'],[],0
+422,432,EXECUTIVE DIRECTOR,432,,"['EXECUTIVE', 'DIRECTOR']",[],0
+423,433,FIELD SUPPORT SPECILIST,433,an IT support technician,"['FIELD', 'SUPPORT', 'SPECILIST']","['an', 'IT', 'support', 'technician']",0.519560561
+424,434,Christopher Townes,434,fellow technologists less experienced technologists senior executives a skilled information technology specialist,"['Christopher', 'Townes']","['fellow', 'technologists', 'less', 'experienced', 'technologists', 'senior', 'executives', 'a', 'skilled', 'information', 'technology', 'specialist']",0.777017427
+425,435,ACCOUNTANT,435,,['ACCOUNTANT'],[],0
+426,436,FINANCE MANAGER,436,a Pharmaceutical Sales Representative,"['FINANCE', 'MANAGER']","['a', 'Pharmaceutical', 'Sales', 'Representative']",0.337255673
+427,437,FINANCE BUSINESS PARTNER,437,internal controls,"['FINANCE', 'BUSINESS', 'PARTNER']","['internal', 'controls']",0.393793366
+428,438,AIR FREIGHT AGENT,438,an Air Freight Agent an HR Specialist,"['AIR', 'FREIGHT', 'AGENT']","['an', 'Air', 'Freight', 'Agent', 'an', 'HR', 'Specialist']",0.691479543
+429,439,ACCOUNT EXECUTIVE,439,an exceptional account executive,"['ACCOUNT', 'EXECUTIVE']","['an', 'exceptional', 'account', 'executive']",0.595982632
+430,440,FINANCE DIRECTOR,440,,"['FINANCE', 'DIRECTOR']",[],0
+431,441,LEAD ENGINEER - FLUID SYSTEMS AND THERMAL ACCESSORIES,441,,"['LEAD', 'ENGINEER', '-', 'FLUID', 'SYSTEMS', 'AND', 'THERMAL', 'ACCESSORIES']",[],0
+432,442,ASSISTANT OPERATIONS MANAGER,442,,"['ASSISTANT', 'OPERATIONS', 'MANAGER']",[],0
+433,443,BRANCH MANAGER,443,an entrepreneurial indirect sales executive,"['BRANCH', 'MANAGER']","['an', 'entrepreneurial', 'indirect', 'sales', 'executive']",0.463823505
+434,444,MATERIAL CONTROL SPECIALIST,444,,"['MATERIAL', 'CONTROL', 'SPECIALIST']",[],0
+435,445,CLINICAL SERVICE ADVOCATE,445,,"['CLINICAL', 'SERVICE', 'ADVOCATE']",[],0
+436,446,HR PARTNER,446,,"['HR', 'PARTNER']",[],0
+437,447,NON COMMISSIONED SECURITY OFFICER,447,a security officer,"['NON', 'COMMISSIONED', 'SECURITY', 'OFFICER']","['a', 'security', 'officer']",0.503138288
+438,448,Professional Summary,448,,"['Professional', 'Summary']",[],0
+439,449,STOREKEEPER II,449,,"['STOREKEEPER', 'II']",[],0
+440,450,MECHANICAL DESIGN ENGINEER INTERN,450,their internship,"['MECHANICAL', 'DESIGN', 'ENGINEER', 'INTERN']","['their', 'internship']",0.526846741
+441,452,FINANCE,452,executive schedules an aviation supply specialist,['FINANCE'],"['executive', 'schedules', 'an', 'aviation', 'supply', 'specialist']",0.511270318
+442,453,AVIATION MAINTENANCE EGRESS LEADING PETTY OFFICER LEADING PETTY OFFICER,453,,"['AVIATION', 'MAINTENANCE', 'EGRESS', 'LEADING', 'PETTY', 'OFFICER', 'LEADING', 'PETTY', 'OFFICER']",[],0
+443,454,OFFICE MANAGER,454,a well-regarded equipment operator,"['OFFICE', 'MANAGER']","['a', 'well-regarded', 'equipment', 'operator']",0.508337756
+444,455,ACCOUNTANT III,455,,"['ACCOUNTANT', 'III']",[],0
+445,456,MANAGING PRINCIPAL,456,strategic advisory services,"['MANAGING', 'PRINCIPAL']","['strategic', 'advisory', 'services']",0.933449432
+446,457,INFORMATION TECHNOLOGY INTERN,457,an IT internship this intern the intern's academic excellence,"['INFORMATION', 'TECHNOLOGY', 'INTERN']","['an', 'IT', 'internship', 'this', 'intern', 'the', ""intern's"", 'academic', 'excellence']",0.32404005
+447,458,HR MANAGER,458,,"['HR', 'MANAGER']",[],0
+448,459,HR GENERALIST,459,,"['HR', 'GENERALIST']",[],0
+449,460,NC AIR GUARD HEALTH SERVICES MANAGER,460,,"['NC', 'AIR', 'GUARD', 'HEALTH', 'SERVICES', 'MANAGER']",[],0
+450,461,SENIOR MEDICAL RECRUITER,461,,"['SENIOR', 'MEDICAL', 'RECRUITER']",[],0
+451,462,REGIONAL BANKING DISTRICT MANAGER VICE PRESIDENT,462,,"['REGIONAL', 'BANKING', 'DISTRICT', 'MANAGER', 'VICE', 'PRESIDENT']",[],0
+452,463,PATIENT ADVOCATE,463,,"['PATIENT', 'ADVOCATE']",[],0
+453,464,CUSTOMER SERVICE REP,464,Customer Service Representative,"['CUSTOMER', 'SERVICE', 'REP']","['Customer', 'Service', 'Representative']",0.643847229
+454,465,INFORMATION TECHNOLOGY SPECIALIST,465,the Specialist's ability,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']","['the', ""Specialist's"", 'ability']",0.302396917
+455,466,PROJECT ANALYST,466,executive teams,"['PROJECT', 'ANALYST']","['executive', 'teams']",0.489433335
+456,467,INFORMATION TECHNOLOGY SPECIALIST,467,,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']",[],0
+457,468,INFORMATION TECHNOLOGY BUREAU DEPUTY DIRECTOR,468,complex architectures,"['INFORMATION', 'TECHNOLOGY', 'BUREAU', 'DEPUTY', 'DIRECTOR']","['complex', 'architectures']",0.626648825
+458,469,PHYSICAL THERAPY AIDE,469,,"['PHYSICAL', 'THERAPY', 'AIDE']",[],0
+459,470,HR GENERALIST,470,executives,"['HR', 'GENERALIST']",['executives'],0.542894876
+460,471,FINANCE OPERATIONS/ SUPERVISOR MANAGER,471,,"['FINANCE', 'OPERATIONS/', 'SUPERVISOR', 'MANAGER']",[],0
+461,472,"DIRECTOR, VENDOR SERVICES AND COMPLIANCE",472,,"['DIRECTOR,', 'VENDOR', 'SERVICES', 'AND', 'COMPLIANCE']",[],0
+462,473,GRANTS MANAGER,473,a large international grant,"['GRANTS', 'MANAGER']","['a', 'large', 'international', 'grant']",0.576738932
+463,475,FINANCE MANAGER,475,a skilled Accounting Technician,"['FINANCE', 'MANAGER']","['a', 'skilled', 'Accounting', 'Technician']",0.36644799
+464,476,FITNESS INSTRUCTOR,476,,"['FITNESS', 'INSTRUCTOR']",[],0
+465,477,BUDGET AND ADMINISTRATION MANAGER,477,a certified nurse assistant,"['BUDGET', 'AND', 'ADMINISTRATION', 'MANAGER']","['a', 'certified', 'nurse', 'assistant']",0.343227169
+466,478,SUBSTITUTE TEACHER,478,,"['SUBSTITUTE', 'TEACHER']",[],0
+467,479,FLIGHT MANAGER,479,international logistics,"['FLIGHT', 'MANAGER']","['international', 'logistics']",0.451162073
+468,480,DIRECTOR OF FINANCE,480,,"['DIRECTOR', 'OF', 'FINANCE']",[],0
+469,481,HR EMPLOYEE RELATIONS SPECIALIST,481,,"['HR', 'EMPLOYEE', 'RELATIONS', 'SPECIALIST']",[],0
+470,482,FINANCE MANAGER,482,,"['FINANCE', 'MANAGER']",[],0
+471,483,INFORMATION TECHNOLOGY SPECIALIST,483,,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']",[],0
+472,484,COMBAT MARKSMANSHIP TRAINER/ PRIMARY MARKSMANSHIP INSTRUCTOR,484,,"['COMBAT', 'MARKSMANSHIP', 'TRAINER/', 'PRIMARY', 'MARKSMANSHIP', 'INSTRUCTOR']",[],0
+473,485,FLIGHT ATTENDANT,485,,"['FLIGHT', 'ATTENDANT']",[],0
+474,486,AVIATION SUPPLY SPECIALISTS,486,a highly skilled aviation supply specialist,"['AVIATION', 'SUPPLY', 'SPECIALISTS']","['a', 'highly', 'skilled', 'aviation', 'supply', 'specialist']",0.51707813
+475,487,ACCOUNTANT,487,,['ACCOUNTANT'],[],0
+476,488,PROGRAM ASSISTANT,488,remarkable organizational and supervisory skills the Program Assistant's commitment advancing in roles such as Membership Coordinator a remarkable program assistant,"['PROGRAM', 'ASSISTANT']","['remarkable', 'organizational', 'and', 'supervisory', 'skills', 'the', 'Program', ""Assistant's"", 'commitment', 'advancing', 'in', 'roles', 'such', 'as', 'Membership', 'Coordinator', 'a', 'remarkable', 'program', 'assistant']",0.485636573
+477,489,HR COORDINATOR,489,an exceptional HR coordinator,"['HR', 'COORDINATOR']","['an', 'exceptional', 'HR', 'coordinator']",0.235164383
+478,490,CUSTOMER SERVICE ADVOCATE,490,new representatives a representative both new and seasoned representatives both new and seasoned representatives both new and seasoned representatives,"['CUSTOMER', 'SERVICE', 'ADVOCATE']","['new', 'representatives', 'a', 'representative', 'both', 'new', 'and', 'seasoned', 'representatives', 'both', 'new', 'and', 'seasoned', 'representatives', 'both', 'new', 'and', 'seasoned', 'representatives']",0.26989106
+479,491,OCCUPATIONAL HEALTH NURSE COORDINATOR,491,,"['OCCUPATIONAL', 'HEALTH', 'NURSE', 'COORDINATOR']",[],0
+480,492,MECHANICAL ENGINEER,492,a dedicated Plant Operator,"['MECHANICAL', 'ENGINEER']","['a', 'dedicated', 'Plant', 'Operator']",0.605108925
+481,493,AIRCRAFT SALES,493,an owner-operator,"['AIRCRAFT', 'SALES']","['an', 'owner-operator']",0.604328879
+482,494,INFORMATION TECHNOLOGY MANAGER,494,network architecture a financial analyst,"['INFORMATION', 'TECHNOLOGY', 'MANAGER']","['network', 'architecture', 'a', 'financial', 'analyst']",0.296584105
+483,495,"HEAD, INFORMATION TECHNOLOGY AND INFORMATION CENTER",495,,"['HEAD,', 'INFORMATION', 'TECHNOLOGY', 'AND', 'INFORMATION', 'CENTER']",[],0
+484,496,CONTRACT ACCOUNTANT,496,,"['CONTRACT', 'ACCOUNTANT']",[],0
+485,497,ACCOUNTANT II,497,the executive level a remarkable tax accounting specialist,"['ACCOUNTANT', 'II']","['the', 'executive', 'level', 'a', 'remarkable', 'tax', 'accounting', 'specialist']",0.607022908
+486,498,DIRECTOR OF NATIONAL SALES- US. HEALTHCARE,498,,"['DIRECTOR', 'OF', 'NATIONAL', 'SALES-', 'US.', 'HEALTHCARE']",[],0
+487,499,VICE PRESIDENT OF MEMBERSHIP,499,,"['VICE', 'PRESIDENT', 'OF', 'MEMBERSHIP']",[],0
+488,500,LEAN SIX SIGMA BLACK BELT,500,,"['LEAN', 'SIX', 'SIGMA', 'BLACK', 'BELT']",[],0
+489,501,"MANAGER, ADVISORY, PERFORMANCE IMPROVEMENT",501,,"['MANAGER,', 'ADVISORY,', 'PERFORMANCE', 'IMPROVEMENT']",[],0
+490,502,FINANCE MANAGER,502,a dedicated finance officer a finance specialist's perspective,"['FINANCE', 'MANAGER']","['a', 'dedicated', 'finance', 'officer', 'a', 'finance', ""specialist's"", 'perspective']",0.349695943
+491,503,HR GENERALIST,503,,"['HR', 'GENERALIST']",[],0
+492,504,GRADUATE ENGINEER,504,,"['GRADUATE', 'ENGINEER']",[],0
+493,505,ACCOUNTANT,505,,['ACCOUNTANT'],[],0
+494,506,FINANCE MANAGER,506,,"['FINANCE', 'MANAGER']",[],0
+495,507,PATIENT CARE TECHNICIAN,507,Patient Care Technician requires a unique ability to maximize patient satisfaction and safety this technician a patient care technician,"['PATIENT', 'CARE', 'TECHNICIAN']","['Patient', 'Care', 'Technician', 'requires', 'a', 'unique', 'ability', 'to', 'maximize', 'patient', 'satisfaction', 'and', 'safety', 'this', 'technician', 'a', 'patient', 'care', 'technician']",0.563350168
+496,508,"PHARMACEUTICAL SALES REPRESENTATIVE, WOMEN'S HEALTHCARE SPECIALIST",508,a skilled pharmaceutical sales representative an exceptional Pharmaceutical Sales Representative an accomplished marketer,"['PHARMACEUTICAL', 'SALES', 'REPRESENTATIVE,', ""WOMEN'S"", 'HEALTHCARE', 'SPECIALIST']","['a', 'skilled', 'pharmaceutical', 'sales', 'representative', 'an', 'exceptional', 'Pharmaceutical', 'Sales', 'Representative', 'an', 'accomplished', 'marketer']",0.272949215
+497,509,HIRING MANAGER/RECRUITING MANAGER,509,,"['HIRING', 'MANAGER/RECRUITING', 'MANAGER']",[],0
+498,510,TAX ACCOUNTANT,510,,"['TAX', 'ACCOUNTANT']",[],0
+499,511,VP FINANCE & IS&T,511,internal controls numerous senior executives,"['VP', 'FINANCE', '&', 'IS&T']","['internal', 'controls', 'numerous', 'senior', 'executives']",0.364211556
+500,512,HEALTHCARE EFFECTIVENESS AND INFORMATION SET COORDINATOR (HEDIS),512,a Pharmaceutical Sales Representative,"['HEALTHCARE', 'EFFECTIVENESS', 'AND', 'INFORMATION', 'SET', 'COORDINATOR', '(HEDIS)']","['a', 'Pharmaceutical', 'Sales', 'Representative']",0.301463588
+501,513,INDEPENDENT CONSULTANT,513,,"['INDEPENDENT', 'CONSULTANT']",[],0
+502,514,HR SPECIALIST,514,,"['HR', 'SPECIALIST']",[],0
+503,515,CLIENT RELATIONS ADVOCATE,515,an administrative assistant,"['CLIENT', 'RELATIONS', 'ADVOCATE']","['an', 'administrative', 'assistant']",0.341452258
+504,516,ASSISTANT DIRECTOR OF FINANCE,516,,"['ASSISTANT', 'DIRECTOR', 'OF', 'FINANCE']",[],0
+505,517,FINANCIAL ANALYST INTERN,517,an exceptional Financial Analyst intern,"['FINANCIAL', 'ANALYST', 'INTERN']","['an', 'exceptional', 'Financial', 'Analyst', 'intern']",0.509151789
+506,518,ADMIN OPERATING ROOM ADMINISTRATIVE COORDINATOR,518,an exceptional operating room administrative coordinator an administrative coordinator an exceptional administrative coordinator,"['ADMIN', 'OPERATING', 'ROOM', 'ADMINISTRATIVE', 'COORDINATOR']","['an', 'exceptional', 'operating', 'room', 'administrative', 'coordinator', 'an', 'administrative', 'coordinator', 'an', 'exceptional', 'administrative', 'coordinator']",0.591826332
+507,519,G,519,an aviation technician,['G'],"['an', 'aviation', 'technician']",0.834320758
+508,520,AMC COMPUTER SPECIALIST AND INTERN,520,,"['AMC', 'COMPUTER', 'SPECIALIST', 'AND', 'INTERN']",[],0
+509,521,ASSISTANT TO CFO,521,this assistant's ability Assistant to the CFO,"['ASSISTANT', 'TO', 'CFO']","['this', ""assistant's"", 'ability', 'Assistant', 'to', 'the', 'CFO']",0.613781443
+510,522,INFORMATION TECHNOLOGY SPECIALIST,522,a highly skilled IT specialist an exceptional IT specialist an exceptional IT specialist,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']","['a', 'highly', 'skilled', 'IT', 'specialist', 'an', 'exceptional', 'IT', 'specialist', 'an', 'exceptional', 'IT', 'specialist']",0.236913585
+511,523,FINANCIAL CONSULTANT,523,,"['FINANCIAL', 'CONSULTANT']",[],0
+512,524,EXPERIENCED INFORMATION TECHNOLOGY MANAGER,524,,"['EXPERIENCED', 'INFORMATION', 'TECHNOLOGY', 'MANAGER']",[],0
+513,525,HR GENERALIST,525,a Staff Assistant internal employment authorizations,"['HR', 'GENERALIST']","['a', 'Staff', 'Assistant', 'internal', 'employment', 'authorizations']",0.448933211
+514,526,HR SPECIALIST,526,trainers high-level executive support,"['HR', 'SPECIALIST']","['trainers', 'high-level', 'executive', 'support']",0.396592127
+515,527,BUSINESS BANKING SPECIALIST,527,my internship the Business Banking Specialists sales expertise,"['BUSINESS', 'BANKING', 'SPECIALIST']","['my', 'internship', 'the', 'Business', 'Banking', 'Specialists', 'sales', 'expertise']",0.279242277
+516,528,OWNER/OPERATOR,528,an Owner/Operator an exceptional executive an Owner/Operator,['OWNER/OPERATOR'],"['an', 'Owner/Operator', 'an', 'exceptional', 'executive', 'an', 'Owner/Operator']",0.771025584
+517,529,MORTGAGE BANKING FORECLOSURE SPECIALIST,529,a remarkable mortgage banking foreclosure specialist Mortgage Banking Foreclosure Specialist,"['MORTGAGE', 'BANKING', 'FORECLOSURE', 'SPECIALIST']","['a', 'remarkable', 'mortgage', 'banking', 'foreclosure', 'specialist', 'Mortgage', 'Banking', 'Foreclosure', 'Specialist']",0.361084342
+518,530,FINANCE OFFICE ASSOCIATE,530,the Specialist,"['FINANCE', 'OFFICE', 'ASSOCIATE']","['the', 'Specialist']",0.515949512
+519,531,FINANCE MANAGER,531,senior executives,"['FINANCE', 'MANAGER']","['senior', 'executives']",0.48014469
+520,532,GENERAL HR ASSISTANT/OFFICE ASSISTANT,532,,"['GENERAL', 'HR', 'ASSISTANT/OFFICE', 'ASSISTANT']",[],0
+521,533,PRODUCTION ASSOCIATE,533,both internal and external stakeholders,"['PRODUCTION', 'ASSOCIATE']","['both', 'internal', 'and', 'external', 'stakeholders']",0.619389025
+522,534,Summary,534,nursing assistants,['Summary'],"['nursing', 'assistants']",0.715784582
+523,535,Karla Lee,535,strong internal and external partnerships an entrepreneurial indirect sales executive,"['Karla', 'Lee']","['strong', 'internal', 'and', 'external', 'partnerships', 'an', 'entrepreneurial', 'indirect', 'sales', 'executive']",0.734501386
+524,536,HR BENEFITS/LEAVE COORDINATOR,536,,"['HR', 'BENEFITS/LEAVE', 'COORDINATOR']",[],0
+525,537,CUSTOMER ADVOCATE,537,,"['CUSTOMER', 'ADVOCATE']",[],0
+526,538,BUSINESS PROCESS ANALYST,538,internal audit practices internal audit practices executive reports internal audit practices,"['BUSINESS', 'PROCESS', 'ANALYST']","['internal', 'audit', 'practices', 'internal', 'audit', 'practices', 'executive', 'reports', 'internal', 'audit', 'practices']",0.407865546
+527,539,MORTGAGE BANKING DOCUMENT MORTGAGE BANKING DOC OPS SPECIALIST,539,an exceptional chief operating officer financial and strategic advisory,"['MORTGAGE', 'BANKING', 'DOCUMENT', 'MORTGAGE', 'BANKING', 'DOC', 'OPS', 'SPECIALIST']","['an', 'exceptional', 'chief', 'operating', 'officer', 'financial', 'and', 'strategic', 'advisory']",0.333948548
+528,540,YOUTH ADVOCATE,540,,"['YOUTH', 'ADVOCATE']",[],0
+529,541,TRIP COORDINATOR,541,Senior Vice-President and Chief Information Officer have provided an innovative edge that is truly commendable,"['TRIP', 'COORDINATOR']","['Senior', 'Vice-President', 'and', 'Chief', 'Information', 'Officer', 'have', 'provided', 'an', 'innovative', 'edge', 'that', 'is', 'truly', 'commendable']",0.633416169
+530,542,ACCOUNTANT,542,external auditors,['ACCOUNTANT'],"['external', 'auditors']",0.755163984
+531,543,BRANCH BANKER III,543,,"['BRANCH', 'BANKER', 'III']",[],0
+532,544,CONSUMER BANKING DEFAULT MANAGEMENT SUPERVISOR,544,,"['CONSUMER', 'BANKING', 'DEFAULT', 'MANAGEMENT', 'SUPERVISOR']",[],0
+533,545,Objective,545,,['Objective'],[],0
+534,546,REGIONAL RECRUITER,546,,"['REGIONAL', 'RECRUITER']",[],0
+535,547,MANAGER OF FINANCE,547,agents numerous agents,"['MANAGER', 'OF', 'FINANCE']","['agents', 'numerous', 'agents']",0.671492909
+536,548,TEACHER ASSISTANT,548,,"['TEACHER', 'ASSISTANT']",[],0
+537,549,PATIENT CARE TECHNICIAN,549,the patient care technicians resume planner/scheduler a highly skilled patient care technician,"['PATIENT', 'CARE', 'TECHNICIAN']","['the', 'patient', 'care', 'technicians', 'resume', 'planner/scheduler', 'a', 'highly', 'skilled', 'patient', 'care', 'technician']",0.524486931
+538,550,BRANCH BANKER,550,a Program Assistant,"['BRANCH', 'BANKER']","['a', 'Program', 'Assistant']",0.655196889
+539,551,HEALTHCARE CLINICAL ANALYST,551,the healthcare clinical analyst,"['HEALTHCARE', 'CLINICAL', 'ANALYST']","['the', 'healthcare', 'clinical', 'analyst']",0.433163409
+540,552,INFORMATION TECHNOLOGY MANAGER,552,,"['INFORMATION', 'TECHNOLOGY', 'MANAGER']",[],0
+541,553,BANKING CENTER MANAGER,553,,"['BANKING', 'CENTER', 'MANAGER']",[],0
+542,554,SENIOR ADVISOR AND NATIONAL FUNDRAISING DIRECTOR,554,high-level executive support functions,"['SENIOR', 'ADVISOR', 'AND', 'NATIONAL', 'FUNDRAISING', 'DIRECTOR']","['high-level', 'executive', 'support', 'functions']",0.428335249
+543,555,MANAGER FIELD,555,Admin Operating Room Administrative Coordinator,"['MANAGER', 'FIELD']","['Admin', 'Operating', 'Room', 'Administrative', 'Coordinator']",0.530568501
+544,556,SALES ASSOCIATE,556,Client Advocate and Escalation Specialist,"['SALES', 'ASSOCIATE']","['Client', 'Advocate', 'and', 'Escalation', 'Specialist']",0.563988253
+545,557,FINANCE OFFICER,557,,"['FINANCE', 'OFFICER']",[],0
+546,558,PASSENGER SERVICE CONCOURSE MANAGER,558,a shift supervisor,"['PASSENGER', 'SERVICE', 'CONCOURSE', 'MANAGER']","['a', 'shift', 'supervisor']",0.450121948
+547,559,BANKING BOOT CAMP PARTICIPANT,559,this investment banking analyst a Front End Supervisor Front End Supervisor,"['BANKING', 'BOOT', 'CAMP', 'PARTICIPANT']","['this', 'investment', 'banking', 'analyst', 'a', 'Front', 'End', 'Supervisor', 'Front', 'End', 'Supervisor']",0.588529207
+548,560,SENIOR INFORMATION TECHNOLOGY MANAGER,560,,"['SENIOR', 'INFORMATION', 'TECHNOLOGY', 'MANAGER']",[],0
+549,561,SCHOOL COUNSELOR,561,,"['SCHOOL', 'COUNSELOR']",[],0
+550,562,MANAGEMENT AND PROGRAM ANALYSIS,562,a specialist,"['MANAGEMENT', 'AND', 'PROGRAM', 'ANALYSIS']","['a', 'specialist']",0.369671952
+551,564,CHILD PERFORMER WELFARE ADVOCATE,564,,"['CHILD', 'PERFORMER', 'WELFARE', 'ADVOCATE']",[],0
+552,565,EXPRESS SCRIPTS,565,supervisory duties,"['EXPRESS', 'SCRIPTS']","['supervisory', 'duties']",0.84168904
+553,566,HR SPECIALIST,566,an exceptional HR specialist,"['HR', 'SPECIALIST']","['an', 'exceptional', 'HR', 'specialist']",0.165671547
+554,567,PLANT FULFILLMENT LEADER,567,internal teams,"['PLANT', 'FULFILLMENT', 'LEADER']","['internal', 'teams']",0.693321354
+555,568,CLINICAL STUDY COORDINATOR II,568,,"['CLINICAL', 'STUDY', 'COORDINATOR', 'II']",[],0
+556,569,AFSCME UNION PRESIDENT,569,an operator,"['AFSCME', 'UNION', 'PRESIDENT']","['an', 'operator']",0.588304554
+557,570,CUSTOMER SERVICE AGENT,570,,"['CUSTOMER', 'SERVICE', 'AGENT']",[],0
+558,571,HR COORDINATOR,571,,"['HR', 'COORDINATOR']",[],0
+559,572,ACCOUNTANT,572,auditors auditors,['ACCOUNTANT'],"['auditors', 'auditors']",0.791235699
+560,574,DIGITAL MARKETING SPECIALIST,574,account executives,"['DIGITAL', 'MARKETING', 'SPECIALIST']","['account', 'executives']",0.453322962
+561,575,"ASSOCIATE, INVESTMENT BANKING OPERATIONS",575,agent banks agent banks agent banks their internship experiences,"['ASSOCIATE,', 'INVESTMENT', 'BANKING', 'OPERATIONS']","['agent', 'banks', 'agent', 'banks', 'agent', 'banks', 'their', 'internship', 'experiences']",0.642805595
+562,576,HR MANAGER,576,,"['HR', 'MANAGER']",[],0
+563,577,FINANCE AND SALES CONSULTANT,577,,"['FINANCE', 'AND', 'SALES', 'CONSULTANT']",[],0
+564,578,ONLINE LEARNING COORDINATOR - PROGRAM TRAINING AND SUPPORT,578,a Community Outreach Specialist,"['ONLINE', 'LEARNING', 'COORDINATOR', '-', 'PROGRAM', 'TRAINING', 'AND', 'SUPPORT']","['a', 'Community', 'Outreach', 'Specialist']",0.285299341
+565,579,ACCOUNTANT,579,,['ACCOUNTANT'],[],0
+566,580,ACCOUNTANT,580,,['ACCOUNTANT'],[],0
+567,581,STAFF ACCOUNTANT,581,C-level executives both internal and external stakeholders,"['STAFF', 'ACCOUNTANT']","['C-level', 'executives', 'both', 'internal', 'and', 'external', 'stakeholders']",0.642915516
+568,582,"ONLINE COACHING, PERSONAL TRAINING",582,,"['ONLINE', 'COACHING,', 'PERSONAL', 'TRAINING']",[],0
+569,583,SALE CONSULTANT,583,,"['SALE', 'CONSULTANT']",[],0
+570,584,DATABASE PROGRAMMER/ANALYST (.NET DEVELOPER),584,a talented database programmer,"['DATABASE', 'PROGRAMMER/ANALYST', '(.NET', 'DEVELOPER)']","['a', 'talented', 'database', 'programmer']",0.745783627
+571,585,PERSONAL TRAINER,585,an accomplished manufacturing and operations executive,"['PERSONAL', 'TRAINER']","['an', 'accomplished', 'manufacturing', 'and', 'operations', 'executive']",0.593948457
+572,586,BUSINESS ANALYST SR. TECHNICAL BUSINESS ANALYST,586,a Business Analyst a talented intern,"['BUSINESS', 'ANALYST', 'SR.', 'TECHNICAL', 'BUSINESS', 'ANALYST']","['a', 'Business', 'Analyst', 'a', 'talented', 'intern']",0.377329959
+573,587,HEALTHCARE INSTRUCTIONAL ASSISTANT,587,this instructional assistant,"['HEALTHCARE', 'INSTRUCTIONAL', 'ASSISTANT']","['this', 'instructional', 'assistant']",0.560036722
+574,588,R,588,agents a highly skilled healthcare insurance sales agent a Platform Architect,['R'],"['agents', 'a', 'highly', 'skilled', 'healthcare', 'insurance', 'sales', 'agent', 'a', 'Platform', 'Architect']",0.806641238
+575,589,ACCOUNTANT III,589,,"['ACCOUNTANT', 'III']",[],0
+576,590,"INFORMATION TECHNOLOGY CONSULTANT, MANAGING MEMBER",590,,"['INFORMATION', 'TECHNOLOGY', 'CONSULTANT,', 'MANAGING', 'MEMBER']",[],0
+577,591,"EIGHTH, NINTH AND TENTH ENGLISH TEACHER",591,,"['EIGHTH,', 'NINTH', 'AND', 'TENTH', 'ENGLISH', 'TEACHER']",[],0
+578,592,GENERAL MANAGER,592,,"['GENERAL', 'MANAGER']",[],0
+579,593,HUMAN RESOURCES MANAGER,593,a fitness trainer,"['HUMAN', 'RESOURCES', 'MANAGER']","['a', 'fitness', 'trainer']",0.479581301
+580,594,DIRECTOR OF INFORMATION TECHNOLOGY,594,,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY']",[],0
+581,595,OPERATIONS TECHNICIAN 1,595,the operations technician internal standards,"['OPERATIONS', 'TECHNICIAN', '1']","['the', 'operations', 'technician', 'internal', 'standards']",0.525486843
+582,596,STUDENT,596,,['STUDENT'],[],0
+583,597,SCHOOL SUCCESS ADVOCATE,597,,"['SCHOOL', 'SUCCESS', 'ADVOCATE']",[],0
+584,598,CUSTOMER SERVICE ASSOCIATE/CASHIER,598,a supervisor a chiropractor's assistant,"['CUSTOMER', 'SERVICE', 'ASSOCIATE/CASHIER']","['a', 'supervisor', 'a', ""chiropractor's"", 'assistant']",0.441348696
+585,599,ADMINISTRATIVE COORDINATOR,599,a reliable and innovative coordinator,"['ADMINISTRATIVE', 'COORDINATOR']","['a', 'reliable', 'and', 'innovative', 'coordinator']",0.476544608
+586,600,FINANCE DIRECTOR,600,,"['FINANCE', 'DIRECTOR']",[],0
+587,601,Rachael Lobdell,601,,"['Rachael', 'Lobdell']",[],0
+588,602,HR ASSISTANT,602,,"['HR', 'ASSISTANT']",[],0
+589,604,MEMBER ADVOCATE,604,,"['MEMBER', 'ADVOCATE']",[],0
+590,605,CORPORATE REGIONAL RECRUITER,605,a supervisor,"['CORPORATE', 'REGIONAL', 'RECRUITER']","['a', 'supervisor']",0.659305771
+591,606,ACCOUNTANT I,606,internal controls various internal and external stakeholders international transactions,"['ACCOUNTANT', 'I']","['internal', 'controls', 'various', 'internal', 'and', 'external', 'stakeholders', 'international', 'transactions']",0.708301521
+592,607,SCHOOL LIBRARY MEDIA SPECIALIST,607,College and Career Coordinator a library media specialist role,"['SCHOOL', 'LIBRARY', 'MEDIA', 'SPECIALIST']","['College', 'and', 'Career', 'Coordinator', 'a', 'library', 'media', 'specialist', 'role']",0.477392699
+593,608,HOME HEALTHCARE TECHNICIAN,608,a dedicated home healthcare technician a remarkable home healthcare technician,"['HOME', 'HEALTHCARE', 'TECHNICIAN']","['a', 'dedicated', 'home', 'healthcare', 'technician', 'a', 'remarkable', 'home', 'healthcare', 'technician']",0.394102667
+594,609,I.T. SUPPORT TECHNICIAN/SPECIALIST,609,an internship,"['I.T.', 'SUPPORT', 'TECHNICIAN/SPECIALIST']","['an', 'internship']",0.653211112
+595,610,DIRECTOR OF FINANCE,610,a highly skilled legal specialist a Placement Agent,"['DIRECTOR', 'OF', 'FINANCE']","['a', 'highly', 'skilled', 'legal', 'specialist', 'a', 'Placement', 'Agent']",0.355827301
+596,611,GENERAL BUSINESS MANAGEMENT,611,,"['GENERAL', 'BUSINESS', 'MANAGEMENT']",[],0
+597,612,4/5 GRADE TEACHER,612,senior executives,"['4/5', 'GRADE', 'TEACHER']","['senior', 'executives']",0.618348275
+598,613,BRANCH MANAGER,613,,"['BRANCH', 'MANAGER']",[],0
+599,614,FINANCE ANALYST,614,Finance Analyst for several years,"['FINANCE', 'ANALYST']","['Finance', 'Analyst', 'for', 'several', 'years']",0.559951059
+600,615,ACCOUNTANT,615,,['ACCOUNTANT'],[],0
+601,616,PASSENGER SERVICES OFFICER,616,Customer Service Representative a specialist,"['PASSENGER', 'SERVICES', 'OFFICER']","['Customer', 'Service', 'Representative', 'a', 'specialist']",0.390779551
+602,617,LICENSED PRACTICAL NURSE- STEP-DOWN UNIT,617,a home healthcare technician,"['LICENSED', 'PRACTICAL', 'NURSE-', 'STEP-DOWN', 'UNIT']","['a', 'home', 'healthcare', 'technician']",0.687096431
+603,618,REGISTERED NURSE,618,medical technicians,"['REGISTERED', 'NURSE']","['medical', 'technicians']",0.804568347
+604,619,GAME DESIGN INTERN,619,,"['GAME', 'DESIGN', 'INTERN']",[],0
+605,620,BUSINESS SYSTEMS ANALYST I,620,,"['BUSINESS', 'SYSTEMS', 'ANALYST', 'I']",[],0
+606,621,"SLEEP TECHNOLOGIST, RPSGT",621,a financial auditor a Sleep Technologist Sleep Technologist Sleep Technologist,"['SLEEP', 'TECHNOLOGIST,', 'RPSGT']","['a', 'financial', 'auditor', 'a', 'Sleep', 'Technologist', 'Sleep', 'Technologist', 'Sleep', 'Technologist']",0.838328959
+607,622,CUSTOMER SERVICE AGENT,622,,"['CUSTOMER', 'SERVICE', 'AGENT']",[],0
+608,623,DIRECTOR OF FINANCE,623,,"['DIRECTOR', 'OF', 'FINANCE']",[],0
+609,624,CASHIER,624,,['CASHIER'],[],0
+610,625,HR & SAFETY MANAGER,625,,"['HR', '&', 'SAFETY', 'MANAGER']",[],0
+611,626,SENIOR FINANCE MANAGER,626,robust internal controls,"['SENIOR', 'FINANCE', 'MANAGER']","['robust', 'internal', 'controls']",0.450614415
+612,627,HR GENERALIST,627,,"['HR', 'GENERALIST']",[],0
+613,628,HR INTERN,628,a remarkable HR Intern this internship,"['HR', 'INTERN']","['a', 'remarkable', 'HR', 'Intern', 'this', 'internship']",0.342390635
+614,629,STAFF ACCOUNTANT,629,a Corporate Facilitator,"['STAFF', 'ACCOUNTANT']","['a', 'Corporate', 'Facilitator']",0.630056425
+615,631,HR ASSOCIATE,631,the companys internship program both internal and external stakeholders the internship program,"['HR', 'ASSOCIATE']","['the', 'companys', 'internship', 'program', 'both', 'internal', 'and', 'external', 'stakeholders', 'the', 'internship', 'program']",0.340610064
+616,632,BRANCH MANAGER/OPERATIONS MANAGER,632,,"['BRANCH', 'MANAGER/OPERATIONS', 'MANAGER']",[],0
+617,633,AVIATION PARTS SALESMAN,633,,"['AVIATION', 'PARTS', 'SALESMAN']",[],0
+618,634,FINANCE CONTROLLER,634,,"['FINANCE', 'CONTROLLER']",[],0
+619,635,PRODUCTION EXCELLENCE SPECIALIST,635,,"['PRODUCTION', 'EXCELLENCE', 'SPECIALIST']",[],0
+620,636,NATIONAL SALES MANAGER,636,Coordinator of Student Personnel Services,"['NATIONAL', 'SALES', 'MANAGER']","['Coordinator', 'of', 'Student', 'Personnel', 'Services']",0.482040665
+621,637,"ATHLETIC DIRECTOR, COACH, PE TEACHER",637,,"['ATHLETIC', 'DIRECTOR,', 'COACH,', 'PE', 'TEACHER']",[],0
+622,638,CUSTOMER ADVOCATE,638,,"['CUSTOMER', 'ADVOCATE']",[],0
+623,640,6 - 8 LANGUAGE ARTS GRADE TEACHER,640,an administrative assistant,"['6', '-', '8', 'LANGUAGE', 'ARTS', 'GRADE', 'TEACHER']","['an', 'administrative', 'assistant']",0.373298851
+624,641,HEALTHCARE RECRUITER,641,,"['HEALTHCARE', 'RECRUITER']",[],0
+625,642,SENIOR ASSOCIATE,642,an exceptional administrative assistant advisory services,"['SENIOR', 'ASSOCIATE']","['an', 'exceptional', 'administrative', 'assistant', 'advisory', 'services']",0.412264873
+626,643,SALES & TRADING INTERN,643,an exceptional investment banking analyst my intern an exceptional Sales & Trading Intern a talented investment banking summer analyst,"['SALES', '&', 'TRADING', 'INTERN']","['an', 'exceptional', 'investment', 'banking', 'analyst', 'my', 'intern', 'an', 'exceptional', 'Sales', '&', 'Trading', 'Intern', 'a', 'talented', 'investment', 'banking', 'summer', 'analyst']",0.256136129
+627,644,SPECIALIST OF INFANTRY,644,,"['SPECIALIST', 'OF', 'INFANTRY']",[],0
+628,645,COMMUNITY ADVOCATE,645,,"['COMMUNITY', 'ADVOCATE']",[],0
+629,646,DINING SERVICES COORDINATOR,646,a dining services coordinator,"['DINING', 'SERVICES', 'COORDINATOR']","['a', 'dining', 'services', 'coordinator']",0.446128176
+630,648,TRADE FINANCE OFFICER,648,,"['TRADE', 'FINANCE', 'OFFICER']",[],0
+631,649,INTERN,649,an intern an exceptional intern,['INTERN'],"['an', 'intern', 'an', 'exceptional', 'intern']",0.49830633
+632,650,INVESTMENT ACCOUNTANT,650,an Emergency Room Admitting Specialist,"['INVESTMENT', 'ACCOUNTANT']","['an', 'Emergency', 'Room', 'Admitting', 'Specialist']",0.70253272
+633,651,REGISTERED CLIENT SERVICE ASSOCIATE,651,their financial advisors financial advisors,"['REGISTERED', 'CLIENT', 'SERVICE', 'ASSOCIATE']","['their', 'financial', 'advisors', 'financial', 'advisors']",0.482677123
+634,652,ACCOUNTANT,652,,['ACCOUNTANT'],[],0
+635,653,FORCE ANALYST,653,,"['FORCE', 'ANALYST']",[],0
+636,654,EXECUTIVE ASSISTANT HR,654,,"['EXECUTIVE', 'ASSISTANT', 'HR']",[],0
+637,655,COMMUNICABLE DISEASE SPECIALIST,655,,"['COMMUNICABLE', 'DISEASE', 'SPECIALIST']",[],0
+638,656,FIELD BASED NURSE CHART REVIEWER - HEALTHCARE INFORMATICS,656,,"['FIELD', 'BASED', 'NURSE', 'CHART', 'REVIEWER', '-', 'HEALTHCARE', 'INFORMATICS']",[],0
+639,657,SHIFT SUPERVISOR,657,,"['SHIFT', 'SUPERVISOR']",[],0
+640,658,HEALTHCARE ADMINISTRATION INTERN,658,a talented healthcare administration intern an aspiring healthcare administration intern their internship a remarkable healthcare administration intern their internship the healthcare administration intern a current healthcare administration intern,"['HEALTHCARE', 'ADMINISTRATION', 'INTERN']","['a', 'talented', 'healthcare', 'administration', 'intern', 'an', 'aspiring', 'healthcare', 'administration', 'intern', 'their', 'internship', 'a', 'remarkable', 'healthcare', 'administration', 'intern', 'their', 'internship', 'the', 'healthcare', 'administration', 'intern', 'a', 'current', 'healthcare', 'administration', 'intern']",0.426059451
+641,659,INTERIM MEMBERSHIP DIRECTOR,659,,"['INTERIM', 'MEMBERSHIP', 'DIRECTOR']",[],0
+642,660,FINANCE DIRECTOR,660,both internal stakeholders,"['FINANCE', 'DIRECTOR']","['both', 'internal', 'stakeholders']",0.413479885
+643,661,HR ADMINISTRATOR,661,,"['HR', 'ADMINISTRATOR']",[],0
+644,662,FITNESS ATTENDANT,662,a certified fitness trainer,"['FITNESS', 'ATTENDANT']","['a', 'certified', 'fitness', 'trainer']",0.512018878
+645,663,"AVP, FINANCE",663,a talented assistant vice president,"['AVP,', 'FINANCE']","['a', 'talented', 'assistant', 'vice', 'president']",0.59296811
+646,664,HEALTH INFORMATION SPECIALIST,664,,"['HEALTH', 'INFORMATION', 'SPECIALIST']",[],0
+647,665,OWNER,665,the administrative assistant,['OWNER'],"['the', 'administrative', 'assistant']",0.662814813
+648,666,SR. HR GENERALIST,666,,"['SR.', 'HR', 'GENERALIST']",[],0
+649,667,FINANCE SUPERVISOR,667,a finance supervisor,"['FINANCE', 'SUPERVISOR']","['a', 'finance', 'supervisor']",0.320352207
+650,668,FITNESS INSTRUCTOR,668,a personal trainer an owner/operator,"['FITNESS', 'INSTRUCTOR']","['a', 'personal', 'trainer', 'an', 'owner/operator']",0.411641883
+651,669,FINANCE CONSULTANT,669,a results-driven and insightful analyst,"['FINANCE', 'CONSULTANT']","['a', 'results-driven', 'and', 'insightful', 'analyst']",0.533405211
+652,670,GEEK SQUAD AGENT,670,an exceptional IT support specialist the IT support specialist,"['GEEK', 'SQUAD', 'AGENT']","['an', 'exceptional', 'IT', 'support', 'specialist', 'the', 'IT', 'support', 'specialist']",0.563507177
+653,671,ASSISTANT BOY'S BASKETBALL COACH,671,,"['ASSISTANT', ""BOY'S"", 'BASKETBALL', 'COACH']",[],0
+654,672,ACCOUNT SERVICE REPRESENTATIVE II/TECH,672,a dedicated communications specialist,"['ACCOUNT', 'SERVICE', 'REPRESENTATIVE', 'II/TECH']","['a', 'dedicated', 'communications', 'specialist']",0.49028369
+655,673,SPECIAL FINANCE MANAGER,673,,"['SPECIAL', 'FINANCE', 'MANAGER']",[],0
+656,674,MOVER,674,,['MOVER'],[],0
+657,675,HR COORDINATOR,675,,"['HR', 'COORDINATOR']",[],0
+658,676,FINANCIAL ACCOUNTANT,676,a Finance Controller,"['FINANCIAL', 'ACCOUNTANT']","['a', 'Finance', 'Controller']",0.650153109
+659,678,AVIATION CAMP ASSISTANT,678,an internship a highly motivated assistant,"['AVIATION', 'CAMP', 'ASSISTANT']","['an', 'internship', 'a', 'highly', 'motivated', 'assistant']",0.399236497
+660,679,SALES ASSOCIATE,679,,"['SALES', 'ASSOCIATE']",[],0
+661,680,SENIOR CLIENT ADVOCATE II,680,,"['SENIOR', 'CLIENT', 'ADVOCATE', 'II']",[],0
+662,681,OUTSIDE MACHINIST,681,,"['OUTSIDE', 'MACHINIST']",[],0
+663,682,HR GENERALIST,682,,"['HR', 'GENERALIST']",[],0
+664,683,EQUIPMENT OPERATOR AND FITNESS LEADER,683,an intern a seasoned manufacturing and operations executive both an Equipment Operator an Equipment Operator,"['EQUIPMENT', 'OPERATOR', 'AND', 'FITNESS', 'LEADER']","['an', 'intern', 'a', 'seasoned', 'manufacturing', 'and', 'operations', 'executive', 'both', 'an', 'Equipment', 'Operator', 'an', 'Equipment', 'Operator']",0.294739334
+665,684,TRAINING ASSISTANT,684,internal processes internal processes,"['TRAINING', 'ASSISTANT']","['internal', 'processes', 'internal', 'processes']",0.662887032
+666,685,CONTRACTS AND FINANCE OFFICER,685,auditors,"['CONTRACTS', 'AND', 'FINANCE', 'OFFICER']",['auditors'],0.481770233
+667,686,ASSISTANT TO MANAGING DIRECTOR,686,an overnight pharmacy technician a diligent plant operator executives,"['ASSISTANT', 'TO', 'MANAGING', 'DIRECTOR']","['an', 'overnight', 'pharmacy', 'technician', 'a', 'diligent', 'plant', 'operator', 'executives']",0.491170131
+668,687,ASSISTANT PRINCIPAL,687,a Veterinarian Assistant certificate an exceptional assistant principal,"['ASSISTANT', 'PRINCIPAL']","['a', 'Veterinarian', 'Assistant', 'certificate', 'an', 'exceptional', 'assistant', 'principal']",0.616330822
+669,688,RECEPTIONIST AND VETERINARY TECHNICIAN,688,an owner/operator a dedicated and skilled office administrator,"['RECEPTIONIST', 'AND', 'VETERINARY', 'TECHNICIAN']","['an', 'owner/operator', 'a', 'dedicated', 'and', 'skilled', 'office', 'administrator']",0.339519088
+670,689,FINANCE MANAGER,689,internal auditing internal auditing,"['FINANCE', 'MANAGER']","['internal', 'auditing', 'internal', 'auditing']",0.520105412
+671,690,CUSTOMER SERVICE ADVOCATE,690,,"['CUSTOMER', 'SERVICE', 'ADVOCATE']",[],0
+672,691,GENERAL MANAGER,691,,"['GENERAL', 'MANAGER']",[],0
+673,692,FINANCE MANAGER,692,broker dealers,"['FINANCE', 'MANAGER']","['broker', 'dealers']",0.814101238
+674,693,STAFF ACCOUNTANT,693,,"['STAFF', 'ACCOUNTANT']",[],0
+675,694,AVIATION RECORDS ANALYST,694,an Aviation Records Analyst the Aviation Records Analysts remarkable ability a supervisor,"['AVIATION', 'RECORDS', 'ANALYST']","['an', 'Aviation', 'Records', 'Analyst', 'the', 'Aviation', 'Records', 'Analysts', 'remarkable', 'ability', 'a', 'supervisor']",0.43893688
+676,695,HEALTHCARE,695,a life care planner,['HEALTHCARE'],"['a', 'life', 'care', 'planner']",0.399159961
+677,696,CERTIFIED FITNESS TRAINER,696,a personal trainer a certified fitness trainer this fitness trainer the certified fitness trainer,"['CERTIFIED', 'FITNESS', 'TRAINER']","['a', 'personal', 'trainer', 'a', 'certified', 'fitness', 'trainer', 'this', 'fitness', 'trainer', 'the', 'certified', 'fitness', 'trainer']",0.424589786
+678,697,DIRECTOR OF FINANCE,697,internal controls,"['DIRECTOR', 'OF', 'FINANCE']","['internal', 'controls']",0.495569599
+679,700,SEXUAL ASSAULT CRISIS COUNSELOR / VICTIM ADVOCATE,700,,"['SEXUAL', 'ASSAULT', 'CRISIS', 'COUNSELOR', '/', 'VICTIM', 'ADVOCATE']",[],0
+680,701,LEAD TELLER,701,an accomplished banking executive,"['LEAD', 'TELLER']","['an', 'accomplished', 'banking', 'executive']",0.604385414
+681,702,SOCIAL MEDIA PRODUCER,702,a highly skilled social media producer the sales agent's strengths,"['SOCIAL', 'MEDIA', 'PRODUCER']","['a', 'highly', 'skilled', 'social', 'media', 'producer', 'the', 'sales', ""agent's"", 'strengths']",0.809741657
+682,703,HUMAN RESOURCE/ FINANCE ANALYST,703,,"['HUMAN', 'RESOURCE/', 'FINANCE', 'ANALYST']",[],0
+683,704,DIRECTOR OF INFORMATION TECHNOLOGY,704,,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY']",[],0
+684,705,SENIOR VICE-PRESIDENT AND CHIEF INFORMATION OFFICER,705,,"['SENIOR', 'VICE-PRESIDENT', 'AND', 'CHIEF', 'INFORMATION', 'OFFICER']",[],0
+685,706,MORTGAGE BANKING RESEARCH SPECIALIST,706,a Mortgage Banking Research Specialist a mortgage banking research specialist over 30 agents over 30 agents,"['MORTGAGE', 'BANKING', 'RESEARCH', 'SPECIALIST']","['a', 'Mortgage', 'Banking', 'Research', 'Specialist', 'a', 'mortgage', 'banking', 'research', 'specialist', 'over', '30', 'agents', 'over', '30', 'agents']",0.352722871
+686,707,ACCOUNTANT,707,an exceptional IT specialist internal processes,['ACCOUNTANT'],"['an', 'exceptional', 'IT', 'specialist', 'internal', 'processes']",0.659928113
+687,708,AVIATION MECHANIC,708,,"['AVIATION', 'MECHANIC']",[],0
+688,709,"DIRECTOR, QUALITY IMPROVEMENT NETWORK FACILITATION",709,the aviation technician,"['DIRECTOR,', 'QUALITY', 'IMPROVEMENT', 'NETWORK', 'FACILITATION']","['the', 'aviation', 'technician']",0.555196509
+689,710,ACCOUNTANT II,710,,"['ACCOUNTANT', 'II']",[],0
+690,711,SUPERVISOR,711,an exceptionally skilled supervisor,['SUPERVISOR'],"['an', 'exceptionally', 'skilled', 'supervisor']",0.523985525
+691,712,FOUNDER AND PROJECT MANAGER,712,a research assistant successful international partnerships,"['FOUNDER', 'AND', 'PROJECT', 'MANAGER']","['a', 'research', 'assistant', 'successful', 'international', 'partnerships']",0.318667959
+692,714,PHD CANDIDATE IN FINANCE,714,,"['PHD', 'CANDIDATE', 'IN', 'FINANCE']",[],0
+693,715,CARE COORDINATOR,715,a dedicated care coordinator the care coordinator,"['CARE', 'COORDINATOR']","['a', 'dedicated', 'care', 'coordinator', 'the', 'care', 'coordinator']",0.530733364
+694,716,PRACTICE MANAGER,716,internal applications,"['PRACTICE', 'MANAGER']","['internal', 'applications']",0.588369178
+695,717,DIRECT CLIENT COORDINATOR- COUNSELOR/ VICTIM ADVOCATE,717,,"['DIRECT', 'CLIENT', 'COORDINATOR-', 'COUNSELOR/', 'VICTIM', 'ADVOCATE']",[],0
+696,718,CUSTOMER CARE REPRESENTATIVE,718,the customer care representative a highly talented nurse executive,"['CUSTOMER', 'CARE', 'REPRESENTATIVE']","['the', 'customer', 'care', 'representative', 'a', 'highly', 'talented', 'nurse', 'executive']",0.556093305
+697,719,CUSTOMER ADVOCATE,719,,"['CUSTOMER', 'ADVOCATE']",[],0
+698,720,PATIENT HEALTH ADVOCATE,720,,"['PATIENT', 'HEALTH', 'ADVOCATE']",[],0
+699,721,SECURITY BAGGAGE HANDLER/PERSONNEL SCREENER,721,,"['SECURITY', 'BAGGAGE', 'HANDLER/PERSONNEL', 'SCREENER']",[],0
+700,722,AM- REPLENISHMENT STOCKER,722,auditors,"['AM-', 'REPLENISHMENT', 'STOCKER']",['auditors'],0.727636321
+701,723,EMERGENCY ROOM ADMITTING SPECIALIST/QUALITY ASSURANCE,723,a registered nurse supervisor Emergency Room Admitting Specialist and Quality Assurance,"['EMERGENCY', 'ROOM', 'ADMITTING', 'SPECIALIST/QUALITY', 'ASSURANCE']","['a', 'registered', 'nurse', 'supervisor', 'Emergency', 'Room', 'Admitting', 'Specialist', 'and', 'Quality', 'Assurance']",0.561093215
+702,724,BUSINESS OFFICE MANAGER,724,,"['BUSINESS', 'OFFICE', 'MANAGER']",[],0
+703,725,HR SPECIALIST,725,,"['HR', 'SPECIALIST']",[],0
+704,726,STAFF ACCOUNTANT,726,internal controls,"['STAFF', 'ACCOUNTANT']","['internal', 'controls']",0.648269646
+705,727,SERVICE ADVOCATE IV- CLINICAL SUPPORT,727,,"['SERVICE', 'ADVOCATE', 'IV-', 'CLINICAL', 'SUPPORT']",[],0
+706,728,INFORMATION TECHNOLOGY,728,,"['INFORMATION', 'TECHNOLOGY']",[],0
+707,729,MDS COORDINATOR,729,nursing assistants,"['MDS', 'COORDINATOR']","['nursing', 'assistants']",0.767934928
+708,730,CORPORATE PROJECT MANAGER,730,a highly skilled information security officer,"['CORPORATE', 'PROJECT', 'MANAGER']","['a', 'highly', 'skilled', 'information', 'security', 'officer']",0.428540066
+709,731,CUSTOMER SERVICE ADVOCATE,731,,"['CUSTOMER', 'SERVICE', 'ADVOCATE']",[],0
+710,732,ADVANCED LEVEL WHEELED VEHICLE MECHANIC,732,a dedicated pest control technician,"['ADVANCED', 'LEVEL', 'WHEELED', 'VEHICLE', 'MECHANIC']","['a', 'dedicated', 'pest', 'control', 'technician']",0.59703047
+711,733,HR COORDINATOR,733,,"['HR', 'COORDINATOR']",[],0
+712,734,HEALTHCARE CONSULTING PROJECT ASSOCIATE,734,and Women's Healthcare Specialist a supervisor a seasoned administrative assistant,"['HEALTHCARE', 'CONSULTING', 'PROJECT', 'ASSOCIATE']","['and', ""Women's"", 'Healthcare', 'Specialist', 'a', 'supervisor', 'a', 'seasoned', 'administrative', 'assistant']",0.380397407
+713,735,DIRECTOR OF INFORMATION TECHNOLOGY,735,,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY']",[],0
+714,736,INTERN,736,a dedicated intern an outstanding intern,['INTERN'],"['a', 'dedicated', 'intern', 'an', 'outstanding', 'intern']",0.51932829
+715,737,FRONT DESK ATTENDANT,737,,"['FRONT', 'DESK', 'ATTENDANT']",[],0
+716,738,ACCOMMODATION SERVICE EXECUTIVE LL,738,,"['ACCOMMODATION', 'SERVICE', 'EXECUTIVE', 'LL']",[],0
+717,739,HR PAYROLL/ ACCOUNTING REPRESENTATIVE,739,an exceptional HR Payroll and Accounting Representative an exceptional HR Payroll and Accounting Representative a skilled HR Payroll/Accounting Representative,"['HR', 'PAYROLL/', 'ACCOUNTING', 'REPRESENTATIVE']","['an', 'exceptional', 'HR', 'Payroll', 'and', 'Accounting', 'Representative', 'an', 'exceptional', 'HR', 'Payroll', 'and', 'Accounting', 'Representative', 'a', 'skilled', 'HR', 'Payroll/Accounting', 'Representative']",0.388340093
+718,740,VICE PRESIDENT,740,internal efficiencies,"['VICE', 'PRESIDENT']","['internal', 'efficiencies']",0.578276312
+719,741,STAFF PHARMACIST,741,,"['STAFF', 'PHARMACIST']",[],0
+720,742,ABA THERAPIST,742,their internship an Information Technology intern an Information Technology and AWS Admin Intern,"['ABA', 'THERAPIST']","['their', 'internship', 'an', 'Information', 'Technology', 'intern', 'an', 'Information', 'Technology', 'and', 'AWS', 'Admin', 'Intern']",0.702800081
+721,743,CERTIFIED NURSING ASSISTANT,743,,"['CERTIFIED', 'NURSING', 'ASSISTANT']",[],0
+722,744,"DIRECTOR, INFORMATION TECHNOLOGY",744,,"['DIRECTOR,', 'INFORMATION', 'TECHNOLOGY']",[],0
+723,745,MANAGER OF GOLF OPERATIONS,745,,"['MANAGER', 'OF', 'GOLF', 'OPERATIONS']",[],0
+724,746,OPERATIONS COORDINATOR,746,a remarkable operations coordinator,"['OPERATIONS', 'COORDINATOR']","['a', 'remarkable', 'operations', 'coordinator']",0.451035465
+725,747,MARKET CONSULTANT - HEALTHCARE ADVOCATE,747,Direct Client Coordinator and Victim Advocate,"['MARKET', 'CONSULTANT', '-', 'HEALTHCARE', 'ADVOCATE']","['Direct', 'Client', 'Coordinator', 'and', 'Victim', 'Advocate']",0.260890655
+726,748,FINANCE MANAGER FINANCE MANAGER,748,,"['FINANCE', 'MANAGER', 'FINANCE', 'MANAGER']",[],0
+727,749,ACCOUNTANT,749,,['ACCOUNTANT'],[],0
+728,750,IT MANAGER,750,,"['IT', 'MANAGER']",[],0
+729,751,STUDENT FINANCE CONSULTANT,751,auditors,"['STUDENT', 'FINANCE', 'CONSULTANT']",['auditors'],0.766408691
+730,752,ADMINISTRATIVE ASSISTANT,752,valuable internship opportunities the skilled administrative assistant,"['ADMINISTRATIVE', 'ASSISTANT']","['valuable', 'internship', 'opportunities', 'the', 'skilled', 'administrative', 'assistant']",0.536059204
+731,753,"SVP, REGIONAL SALES DIRECTOR WEALTH MANAGEMENT",753,internal controls an exceptional finance specialist,"['SVP,', 'REGIONAL', 'SALES', 'DIRECTOR', 'WEALTH', 'MANAGEMENT']","['internal', 'controls', 'an', 'exceptional', 'finance', 'specialist']",0.414770725
+732,754,EPIC INFORMATION TECHNOLOGY SPECIALIST,754,,"['EPIC', 'INFORMATION', 'TECHNOLOGY', 'SPECIALIST']",[],0
+733,755,TERADATA SENIOR ASSOCIATE CONSULTANT,755,my internship,"['TERADATA', 'SENIOR', 'ASSOCIATE', 'CONSULTANT']","['my', 'internship']",0.642299118
+734,756,ASSISTANT INFORMATION TECHNOLOGY (IT) DIRECTOR,756,this specialists ability technical architecture,"['ASSISTANT', 'INFORMATION', 'TECHNOLOGY', '(IT)', 'DIRECTOR']","['this', 'specialists', 'ability', 'technical', 'architecture']",0.419959367
+735,758,FULFILLMENT ADVOCATE,758,,"['FULFILLMENT', 'ADVOCATE']",[],0
+736,759,ACCOUNT EXECUTIVE,759,,"['ACCOUNT', 'EXECUTIVE']",[],0
+737,760,AVIATION MECHANIC,760,over 200 technicians the Trip Coordinator technicians technicians,"['AVIATION', 'MECHANIC']","['over', '200', 'technicians', 'the', 'Trip', 'Coordinator', 'technicians', 'technicians']",0.414892167
+738,761,DIRECTOR OF INFORMATION TECHNOLOGY,761,Windows 7 Support Desk Technician for Cigna Health Care,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY']","['Windows', '7', 'Support', 'Desk', 'Technician', 'for', 'Cigna', 'Health', 'Care']",0.66142897
+739,762,SOFTWARE ENGINEER,762,,"['SOFTWARE', 'ENGINEER']",[],0
+740,763,ACCOUNTANT,763,,['ACCOUNTANT'],[],0
+741,764,ASSISTANT BANKING CENTER MANAGER,764,my internship,"['ASSISTANT', 'BANKING', 'CENTER', 'MANAGER']","['my', 'internship']",0.374818895
+742,765,MEMBERSHIP COORDINATOR,765,a dedicated personal trainer a dedicated membership coordinator membership coordinator at a health club a remarkable membership coordinator,"['MEMBERSHIP', 'COORDINATOR']","['a', 'dedicated', 'personal', 'trainer', 'a', 'dedicated', 'membership', 'coordinator', 'membership', 'coordinator', 'at', 'a', 'health', 'club', 'a', 'remarkable', 'membership', 'coordinator']",0.599514186
+743,766,AUDIO/VISUAL TECHNICIAN,766,the audio/visual technician any audio/visual technician role an outstanding Audio/Visual Technician an exceptionally talented audio/visual technician,"['AUDIO/VISUAL', 'TECHNICIAN']","['the', 'audio/visual', 'technician', 'any', 'audio/visual', 'technician', 'role', 'an', 'outstanding', 'Audio/Visual', 'Technician', 'an', 'exceptionally', 'talented', 'audio/visual', 'technician']",0.475709938
+744,767,VICE PRESIDENT INFORMATION TECHNOLOGY INFRASTRUCTURE OPERATIONS,767,an exceptional IT executive a dedicated IT executive a highly skilled IT executive,"['VICE', 'PRESIDENT', 'INFORMATION', 'TECHNOLOGY', 'INFRASTRUCTURE', 'OPERATIONS']","['an', 'exceptional', 'IT', 'executive', 'a', 'dedicated', 'IT', 'executive', 'a', 'highly', 'skilled', 'IT', 'executive']",0.282664688
+745,768,ARTS EDUCATION INTERN,768,her internship an intern,"['ARTS', 'EDUCATION', 'INTERN']","['her', 'internship', 'an', 'intern']",0.402766789
+746,769,FINANCE OFFICER,769,their strong supervisory skills,"['FINANCE', 'OFFICER']","['their', 'strong', 'supervisory', 'skills']",0.396237376
+747,770,GRADATION CANDIDATE ADVOCATE,770,Healthcare Administration Intern,"['GRADATION', 'CANDIDATE', 'ADVOCATE']","['Healthcare', 'Administration', 'Intern']",0.615865384
+748,771,PRODUCT SPECIALIST,771,an adept product specialist,"['PRODUCT', 'SPECIALIST']","['an', 'adept', 'product', 'specialist']",0.475328653
+749,772,HR GENERALIST,772,,"['HR', 'GENERALIST']",[],0
+750,773,SENIOR ACCOUNTANT,773,auditors,"['SENIOR', 'ACCOUNTANT']",['auditors'],0.654756923
+751,774,ADMINISTRATIVE ASSISTANT,774,,"['ADMINISTRATIVE', 'ASSISTANT']",[],0
+752,775,DIRECTOR OF INFORMATION TECHNOLOGY /CHIEF TECHNOLOGY OFFICER,775,,"['DIRECTOR', 'OF', 'INFORMATION', 'TECHNOLOGY', '/CHIEF', 'TECHNOLOGY', 'OFFICER']",[],0
+753,776,PAYROLL ACCOUNTANT,776,policy advisories,"['PAYROLL', 'ACCOUNTANT']","['policy', 'advisories']",0.845194272
+754,777,PRODUCTION ASSISTANT INTERN,777,,"['PRODUCTION', 'ASSISTANT', 'INTERN']",[],0
+755,779,LEAD PHARMACY TECHNICIAN ADVOCATE - SUPERVISOR,779,the lead pharmacy technician the lead pharmacy technician role,"['LEAD', 'PHARMACY', 'TECHNICIAN', 'ADVOCATE', '-', 'SUPERVISOR']","['the', 'lead', 'pharmacy', 'technician', 'the', 'lead', 'pharmacy', 'technician', 'role']",0.27687867
+756,780,ADVOCATE,780,nursing assistants,['ADVOCATE'],"['nursing', 'assistants']",0.744807628
+757,781,"VIDEO DIRECTOR, EAST COAST VIDEO FOR ENTERPRISE BRANDS",781,,"['VIDEO', 'DIRECTOR,', 'EAST', 'COAST', 'VIDEO', 'FOR', 'ENTERPRISE', 'BRANDS']",[],0
+758,782,Summary,782,,['Summary'],[],0
+759,783,SALES / FINANCE MANAGER,783,,"['SALES', '/', 'FINANCE', 'MANAGER']",[],0
+760,784,FINANCE MANAGER,784,an intern,"['FINANCE', 'MANAGER']","['an', 'intern']",0.392730504
+761,785,QUALITY CONTROL INSPECTOR,785,a highly skilled quality control inspector a highly qualified quality control inspector,"['QUALITY', 'CONTROL', 'INSPECTOR']","['a', 'highly', 'skilled', 'quality', 'control', 'inspector', 'a', 'highly', 'qualified', 'quality', 'control', 'inspector']",0.48734766
+762,786,REGISTERED NURSE,786,,"['REGISTERED', 'NURSE']",[],0
+763,788,CONCIERGE/DOORMAN,788,an office assistant,['CONCIERGE/DOORMAN'],"['an', 'office', 'assistant']",0.919438868
+764,789,VICE PRESIDENT,789,,"['VICE', 'PRESIDENT']",[],0
+765,790,ACCOUNTANT,790,principal investigators internal practices,['ACCOUNTANT'],"['principal', 'investigators', 'internal', 'practices']",0.583634016
+766,791,"REGISTERED NURSE, SUPERVISOR",791,a registered nurse supervisor,"['REGISTERED', 'NURSE,', 'SUPERVISOR']","['a', 'registered', 'nurse', 'supervisor']",0.518805067
+767,792,HR ASSISTANT INTERN,792,,"['HR', 'ASSISTANT', 'INTERN']",[],0
+768,793,LEGAL SPECIALIST III - INVESTMENT BANKING SUBPOENA COMPLIANCE,793,Legal Specialist III a highly skilled legal specialist,"['LEGAL', 'SPECIALIST', 'III', '-', 'INVESTMENT', 'BANKING', 'SUBPOENA', 'COMPLIANCE']","['Legal', 'Specialist', 'III', 'a', 'highly', 'skilled', 'legal', 'specialist']",0.255664842
+769,794,FINANCIAL INSTITUTIONS EXAMINER,794,,"['FINANCIAL', 'INSTITUTIONS', 'EXAMINER']",[],0
+770,795,GENERAL MANAGER,795,,"['GENERAL', 'MANAGER']",[],0
+771,796,VOLUNTEER ACCOUNTANT,796,,"['VOLUNTEER', 'ACCOUNTANT']",[],0
+772,797,ACCOUNTANT,797,international corporations auditors a Supervisor Accountant external auditors,['ACCOUNTANT'],"['international', 'corporations', 'auditors', 'a', 'Supervisor', 'Accountant', 'external', 'auditors']",0.702919082
+773,798,INFORMATION TECHNOLOGY COORDINATOR,798,executive schedules,"['INFORMATION', 'TECHNOLOGY', 'COORDINATOR']","['executive', 'schedules']",0.51556509
+774,799,CERTIFIED PERSONAL TRAINER AND GROUP FITNESS INSTRUCTOR,799,a certified personal trainer,"['CERTIFIED', 'PERSONAL', 'TRAINER', 'AND', 'GROUP', 'FITNESS', 'INSTRUCTOR']","['a', 'certified', 'personal', 'trainer']",0.267916191
+775,800,QA TEST ANALYST,800,a skilled QA Test Analyst a talented QA Test Analyst,"['QA', 'TEST', 'ANALYST']","['a', 'skilled', 'QA', 'Test', 'Analyst', 'a', 'talented', 'QA', 'Test', 'Analyst']",0.428782078
+776,801,PROGRAM DIRECTOR / OFFICE MANAGER,801,,"['PROGRAM', 'DIRECTOR', '/', 'OFFICE', 'MANAGER']",[],0
+777,802,ACCOUNTANT,802,internal controls,['ACCOUNTANT'],"['internal', 'controls']",0.624688944
+778,803,CASHIER,803,a Personal Trainer an owner/operator,['CASHIER'],"['a', 'Personal', 'Trainer', 'an', 'owner/operator']",1
+779,804,ACCOUNTANT,804,,['ACCOUNTANT'],[],0
+780,806,QUALITY ANALYST/SENIOR RECORD KEEPING SPECIALIST,806,Quality Analyst and Senior Record Keeping Specialist,"['QUALITY', 'ANALYST/SENIOR', 'RECORD', 'KEEPING', 'SPECIALIST']","['Quality', 'Analyst', 'and', 'Senior', 'Record', 'Keeping', 'Specialist']",0.520454054
+781,807,MANAGEMENT CONSULTANT,807,,"['MANAGEMENT', 'CONSULTANT']",[],0
+782,808,SENIOR ACCOUNTANT,808,,"['SENIOR', 'ACCOUNTANT']",[],0
+783,809,"SVP, BUSINESS BANKING",809,,"['SVP,', 'BUSINESS', 'BANKING']",[],0
+784,810,LABORER,810,,['LABORER'],[],0
+785,811,DIRECTOR OF OPERATIONS,811,,"['DIRECTOR', 'OF', 'OPERATIONS']",[],0
+786,812,HR GENERALIST,812,an office administrative assistant,"['HR', 'GENERALIST']","['an', 'office', 'administrative', 'assistant']",0.422201013
+787,813,ASSEMBLY MECHANIC,813,fellow technicians,"['ASSEMBLY', 'MECHANIC']","['fellow', 'technicians']",0.779318763
+788,814,DIRECTOR OF COMMUNITY,814,,"['DIRECTOR', 'OF', 'COMMUNITY']",[],0
+789,815,OFFICE MANAGER/MANAGING DIRECTOR,815,healthcare administrators,"['OFFICE', 'MANAGER/MANAGING', 'DIRECTOR']","['healthcare', 'administrators']",0.528709885
+790,816,QUALITY ASSURANCE MANAGER,816,a Maintenance Specialist,"['QUALITY', 'ASSURANCE', 'MANAGER']","['a', 'Maintenance', 'Specialist']",0.383334569
+791,817,MEDICAL SCRIBE,817,medical assistant,"['MEDICAL', 'SCRIBE']","['medical', 'assistant']",0.701577586
+792,818,SR. MORTGAGE BANKING EXECUTIVE,818,their brokerage a small mortgage brokerage,"['SR.', 'MORTGAGE', 'BANKING', 'EXECUTIVE']","['their', 'brokerage', 'a', 'small', 'mortgage', 'brokerage']",0.358581627
+793,819,FINANCE / OFFICE MANAGER,819,,"['FINANCE', '/', 'OFFICE', 'MANAGER']",[],0
+794,820,SUPERVISOR ACCOUNTANT,820,,"['SUPERVISOR', 'ACCOUNTANT']",[],0
+795,821,ACCOUNTANT,821,,['ACCOUNTANT'],[],0
+796,822,ACTING GRADE 4 CUSTOMER/BRAND,822,,"['ACTING', 'GRADE', '4', 'CUSTOMER/BRAND']",[],0
+797,823,INFORMATION TECHNOLOGY SPECIALIST GS11,823,this specialist an outstanding Information Technology Specialist,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST', 'GS11']","['this', 'specialist', 'an', 'outstanding', 'Information', 'Technology', 'Specialist']",0.327741291
+798,824,HR SPECIALIST/ HORIZONTAL ENGINEER,824,,"['HR', 'SPECIALIST/', 'HORIZONTAL', 'ENGINEER']",[],0
+799,825,PLANNER/SCHEDULER,825,,['PLANNER/SCHEDULER'],[],0
+800,826,COMMUNITY OUTREACH SPECIALIST,826,,"['COMMUNITY', 'OUTREACH', 'SPECIALIST']",[],0
+801,827,HEALTHCARE ADMINISTRATOR/OPERATIONAL AND STAFF REORG,827,an exceptional healthcare administrator the healthcare administrator a highly capable administrator healthcare administrators,"['HEALTHCARE', 'ADMINISTRATOR/OPERATIONAL', 'AND', 'STAFF', 'REORG']","['an', 'exceptional', 'healthcare', 'administrator', 'the', 'healthcare', 'administrator', 'a', 'highly', 'capable', 'administrator', 'healthcare', 'administrators']",0.288292589
+802,828,FINANCE SPECIALIST,828,the finance specialist,"['FINANCE', 'SPECIALIST']","['the', 'finance', 'specialist']",0.310564184
+803,829,ADVOCARE DISTRIBUTOR,829,,"['ADVOCARE', 'DISTRIBUTOR']",[],0
+804,830,ADMINISTRATION ASSISTANT,830,an administration assistant,"['ADMINISTRATION', 'ASSISTANT']","['an', 'administration', 'assistant']",0.547477486
+805,831,SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST,831,this logistics specialist an Air Freight Agent,"['SUPERVISORY', 'LOGISTICS', 'MANAGEMENT', 'SPECIALIST']","['this', 'logistics', 'specialist', 'an', 'Air', 'Freight', 'Agent']",0.564350291
+806,832,HR COORDINATOR,832,,"['HR', 'COORDINATOR']",[],0
+807,833,STOREKEEPER II,833,a trainer,"['STOREKEEPER', 'II']","['a', 'trainer']",0.686811046
+808,834,INTERN,834,a dedicated fitness intern the intern a fitness trainer both a fitness trainer,['INTERN'],"['a', 'dedicated', 'fitness', 'intern', 'the', 'intern', 'a', 'fitness', 'trainer', 'both', 'a', 'fitness', 'trainer']",0.528016516
+809,835,HR PERSONNEL ASSISTANT,835,the HR assistant's diligence a finance executive,"['HR', 'PERSONNEL', 'ASSISTANT']","['the', 'HR', ""assistant's"", 'diligence', 'a', 'finance', 'executive']",0.379917535
+810,836,FACILITY MANAGER,836,a commission specialist,"['FACILITY', 'MANAGER']","['a', 'commission', 'specialist']",0.525968248
+811,837,ADMINISTRATIVE OFFICE ASSISTANT,837,,"['ADMINISTRATIVE', 'OFFICE', 'ASSISTANT']",[],0
+812,838,DIRECTOR OF FINANCE,838,strong internal controls rigorous internal controls,"['DIRECTOR', 'OF', 'FINANCE']","['strong', 'internal', 'controls', 'rigorous', 'internal', 'controls']",0.47451153
+813,839,FINANCE CUSTOMER CARE REP LEAD,839,,"['FINANCE', 'CUSTOMER', 'CARE', 'REP', 'LEAD']",[],0
+814,841,STAFF ACCOUNTANT,841,,"['STAFF', 'ACCOUNTANT']",[],0
+815,842,PROCUREMENT ANALYST,842,a chief gym officer a procurement analyst,"['PROCUREMENT', 'ANALYST']","['a', 'chief', 'gym', 'officer', 'a', 'procurement', 'analyst']",0.628775066
+816,843,EXPRESSIVE ARTS PROGRAM LEADER,843,,"['EXPRESSIVE', 'ARTS', 'PROGRAM', 'LEADER']",[],0
+817,844,FINANCE COORDINATOR,844,,"['FINANCE', 'COORDINATOR']",[],0
+818,845,ADMINISTRATOR,845,this accomplished executive a Healthcare Specialist,['ADMINISTRATOR'],"['this', 'accomplished', 'executive', 'a', 'Healthcare', 'Specialist']",0.635301684
+819,846,CHILD FAMILY ADVOCATE,846,,"['CHILD', 'FAMILY', 'ADVOCATE']",[],0
+820,847,CUSTOMER SERVICE REPRESENTACTIVE,847,a researcher/supervisor,"['CUSTOMER', 'SERVICE', 'REPRESENTACTIVE']","['a', 'researcher/supervisor']",0.472939196
+821,848,FINANCE,848,a Finance Controller,['FINANCE'],"['a', 'Finance', 'Controller']",0.462661395
+822,849,HR ASSOCIATE,849,,"['HR', 'ASSOCIATE']",[],0
+823,850,SENIOR ACCOUNTANT,850,internal and external auditors,"['SENIOR', 'ACCOUNTANT']","['internal', 'and', 'external', 'auditors']",0.493590602
+824,851,MARKETING & SALES ANALYST,851,a Marketing and Sales Analyst corporate executives corporate executives senior executives,"['MARKETING', '&', 'SALES', 'ANALYST']","['a', 'Marketing', 'and', 'Sales', 'Analyst', 'corporate', 'executives', 'corporate', 'executives', 'senior', 'executives']",0.296290748
+825,852,HR MANAGER,852,an HR Assistant,"['HR', 'MANAGER']","['an', 'HR', 'Assistant']",0.207889339
+826,853,ASSISTANT MANAGER,853,my internship Legal Specialist,"['ASSISTANT', 'MANAGER']","['my', 'internship', 'Legal', 'Specialist']",0.438761922
+827,854,"VICE PRESIDENT, INFORMATION TECHNOLOGY",854,a highly accomplished executive the web developer,"['VICE', 'PRESIDENT,', 'INFORMATION', 'TECHNOLOGY']","['a', 'highly', 'accomplished', 'executive', 'the', 'web', 'developer']",0.346736611
+828,855,ELECTRICAL ENGINEER,855,,"['ELECTRICAL', 'ENGINEER']",[],0
+829,856,HR VOLUNTEER ASST. MANAGER,856,intern programs,"['HR', 'VOLUNTEER', 'ASST.', 'MANAGER']","['intern', 'programs']",0.689370071
+830,857,ACCOUNTANT,857,both internal teams,['ACCOUNTANT'],"['both', 'internal', 'teams']",0.548620727
+831,858,CORPORATE ACCOUNTANT,858,internal controls,"['CORPORATE', 'ACCOUNTANT']","['internal', 'controls']",0.638626487
+832,859,ACCOUNT EXECUTIVE,859,the senior account executive one banking officer a highly skilled account executive,"['ACCOUNT', 'EXECUTIVE']","['the', 'senior', 'account', 'executive', 'one', 'banking', 'officer', 'a', 'highly', 'skilled', 'account', 'executive']",0.618768476
+833,860,RESEARCH ASSISTANT,860,,"['RESEARCH', 'ASSISTANT']",[],0
+834,861,"HR SPECIALIST, US HR OPERATIONS",861,,"['HR', 'SPECIALIST,', 'US', 'HR', 'OPERATIONS']",[],0
+835,862,FINANCIAL ACCOUNTANT,862,international licensing prominent international corporations major international corporations international licensing international corporations international corporations both domestic and international teams,"['FINANCIAL', 'ACCOUNTANT']","['international', 'licensing', 'prominent', 'international', 'corporations', 'major', 'international', 'corporations', 'international', 'licensing', 'international', 'corporations', 'international', 'corporations', 'both', 'domestic', 'and', 'international', 'teams']",0.638483275
+836,863,AVIATION OPERATION SPECIALIST,863,Client Support Specialist II,"['AVIATION', 'OPERATION', 'SPECIALIST']","['Client', 'Support', 'Specialist', 'II']",0.460687753
+837,864,PATIENT ADVOCATE,864,,"['PATIENT', 'ADVOCATE']",[],0
+838,865,SENIOR MANAGER OF CUSTOMER SUPPORT,865,Air Freight Agent has equipped an individual with valuable skills in logistics,"['SENIOR', 'MANAGER', 'OF', 'CUSTOMER', 'SUPPORT']","['Air', 'Freight', 'Agent', 'has', 'equipped', 'an', 'individual', 'with', 'valuable', 'skills', 'in', 'logistics']",0.468886507
+839,867,EP,867,,['EP'],[],0
+840,870,SENIOR IMPLEMENTATION MANAGER,870,,"['SENIOR', 'IMPLEMENTATION', 'MANAGER']",[],0
+841,872,INFORMATION TECHNOLOGY PROJECT MANAGER,872,an accomplished seafood inspector,"['INFORMATION', 'TECHNOLOGY', 'PROJECT', 'MANAGER']","['an', 'accomplished', 'seafood', 'inspector']",0.427052523
+842,873,CHARGE NURSE,873,this supervisory capacity,"['CHARGE', 'NURSE']","['this', 'supervisory', 'capacity']",0.659782637
+843,874,BENEFIT ADVOCATE,874,,"['BENEFIT', 'ADVOCATE']",[],0
+844,875,ASSISTANT FOOTBALL COACH,875,,"['ASSISTANT', 'FOOTBALL', 'COACH']",[],0
+845,877,MEDICAL SUPPORT ASSISTANT (OA) GS-5 STEP 2,877,a dedicated healthcare instructional assistant,"['MEDICAL', 'SUPPORT', 'ASSISTANT', '(OA)', 'GS-5', 'STEP', '2']","['a', 'dedicated', 'healthcare', 'instructional', 'assistant']",0.507821892
+846,878,INTERVENTION SPECIALIST TEACHER OF MATH AND LANGUAGE ARTS,878,both a literacy specialist,"['INTERVENTION', 'SPECIALIST', 'TEACHER', 'OF', 'MATH', 'AND', 'LANGUAGE', 'ARTS']","['both', 'a', 'literacy', 'specialist']",0.184188599
+847,879,FINANCE AND ACCOUNTING SPECIALIST,879,auditors,"['FINANCE', 'AND', 'ACCOUNTING', 'SPECIALIST']",['auditors'],0.412983055
+848,880,INFORMATION TECHNOLOGY SENIOR MANAGER,880,,"['INFORMATION', 'TECHNOLOGY', 'SENIOR', 'MANAGER']",[],0
+849,881,TERRITORY SALES CONSULTANT,881,,"['TERRITORY', 'SALES', 'CONSULTANT']",[],0
+850,882,FINANCE MANAGER,882,,"['FINANCE', 'MANAGER']",[],0
+851,883,BANK TELLER,883,in the aviation sector has required me to assist underwriters and brokers,"['BANK', 'TELLER']","['in', 'the', 'aviation', 'sector', 'has', 'required', 'me', 'to', 'assist', 'underwriters', 'and', 'brokers']",0.896801119
+852,884,MANAGER OF FINANCE,884,financial specialists a finance assistant a part-time chemistry teaching assistant,"['MANAGER', 'OF', 'FINANCE']","['financial', 'specialists', 'a', 'finance', 'assistant', 'a', 'part-time', 'chemistry', 'teaching', 'assistant']",0.374165291
+853,885,NETWORK ADMINISTRATOR,885,the experienced network administrator network architecture,"['NETWORK', 'ADMINISTRATOR']","['the', 'experienced', 'network', 'administrator', 'network', 'architecture']",0.754236628
+854,886,FINANCE DIRECTOR,886,,"['FINANCE', 'DIRECTOR']",[],0
+855,887,FINANCE PROJECT COORDINATOR,887,,"['FINANCE', 'PROJECT', 'COORDINATOR']",[],0
+856,888,MORTGAGE BANKING UNDERWRITER II,888,a Legal Specialist,"['MORTGAGE', 'BANKING', 'UNDERWRITER', 'II']","['a', 'Legal', 'Specialist']",0.484479322
+857,889,SENIOR ACCOUNTANT,889,internal controls senior executiveswas,"['SENIOR', 'ACCOUNTANT']","['internal', 'controls', 'senior', 'executiveswas']",0.540524736
+858,890,DENTAL HYGIENIST,890,,"['DENTAL', 'HYGIENIST']",[],0
+859,891,HR CONSULTANT,891,HR interns,"['HR', 'CONSULTANT']","['HR', 'interns']",0.299109509
+860,892,HR CONTACT CENTER SPECIALIST,892,,"['HR', 'CONTACT', 'CENTER', 'SPECIALIST']",[],0
+861,893,ACCOUNTANT,893,,['ACCOUNTANT'],[],0
+862,894,BRANCH CHIEF INFORMATION TECHNOLOGY SPECIALIST,894,the Information Technology Coordinator,"['BRANCH', 'CHIEF', 'INFORMATION', 'TECHNOLOGY', 'SPECIALIST']","['the', 'Information', 'Technology', 'Coordinator']",0.357792831
+863,895,PATIENT ADVOCATE,895,a senior analyst,"['PATIENT', 'ADVOCATE']","['a', 'senior', 'analyst']",0.446389056
+864,896,LEAD OPERATIONS ENGINEER - GLOBAL HAWK PROJECT,896,a dedicated pest control technician a supervisor,"['LEAD', 'OPERATIONS', 'ENGINEER', '-', 'GLOBAL', 'HAWK', 'PROJECT']","['a', 'dedicated', 'pest', 'control', 'technician', 'a', 'supervisor']",0.27833159
+865,897,MARKETER / ADMINISTRATOR,897,an exceptional marketer a healthcare administrator the marketer/administrator,"['MARKETER', '/', 'ADMINISTRATOR']","['an', 'exceptional', 'marketer', 'a', 'healthcare', 'administrator', 'the', 'marketer/administrator']",0.432321757
+866,898,INFORMATION TECHNOLOGY SPECIALIST INFORMATION SECURITY OFFICER,898,a dedicated and skilled technology specialist,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST', 'INFORMATION', 'SECURITY', 'OFFICER']","['a', 'dedicated', 'and', 'skilled', 'technology', 'specialist']",0.284711635
+867,899,HEALTHCARE DOCUMENTATION SERVICES DELIVERY MANAGER,899,a dedicated home healthcare technician,"['HEALTHCARE', 'DOCUMENTATION', 'SERVICES', 'DELIVERY', 'MANAGER']","['a', 'dedicated', 'home', 'healthcare', 'technician']",0.402022899
+868,900,SOCIAL MEDIA AGENT,900,a talented social media agent,"['SOCIAL', 'MEDIA', 'AGENT']","['a', 'talented', 'social', 'media', 'agent']",0.535678768
+869,901,FREELANCE IT CONSULTANT,901,,"['FREELANCE', 'IT', 'CONSULTANT']",[],0
+870,902,CASE MANAGER,902,,"['CASE', 'MANAGER']",[],0
+871,903,ELECTRICIAN,903,a supervisor,['ELECTRICIAN'],"['a', 'supervisor']",0.88714938
+872,904,COMMISSION SPECIALIST,904,the Commission Specialist's ability a Senior Analyst,"['COMMISSION', 'SPECIALIST']","['the', 'Commission', ""Specialist's"", 'ability', 'a', 'Senior', 'Analyst']",0.500905769
+873,905,INFORMATION TECHNOLOGY CONSULTANT,905,a certified fitness trainer,"['INFORMATION', 'TECHNOLOGY', 'CONSULTANT']","['a', 'certified', 'fitness', 'trainer']",0.352393852
+874,906,HR EXECUTIVE,906,,"['HR', 'EXECUTIVE']",[],0
+875,907,ADVOCATE GENERAL,907,an experienced HR representative an exceptional HR assistant,"['ADVOCATE', 'GENERAL']","['an', 'experienced', 'HR', 'representative', 'an', 'exceptional', 'HR', 'assistant']",0.500292851
+876,908,FIELD NURSE,908,the Account Executive's strategic approach,"['FIELD', 'NURSE']","['the', 'Account', ""Executive's"", 'strategic', 'approach']",0.655569317
+877,909,ACCOUNTANT,909,,['ACCOUNTANT'],[],0
+878,911,COURT APPOINTED SPECIAL ADVOCATE,911,an intern,"['COURT', 'APPOINTED', 'SPECIAL', 'ADVOCATE']","['an', 'intern']",0.48817318
+879,912,NIGHT WAREHOUSE SELECTOR,912,an accomplished account executive,"['NIGHT', 'WAREHOUSE', 'SELECTOR']","['an', 'accomplished', 'account', 'executive']",0.816914827
+880,913,INFORMATION TECHNOLOGY DIRECTOR,913,,"['INFORMATION', 'TECHNOLOGY', 'DIRECTOR']",[],0
+881,914,HEALTH COACH,914,,"['HEALTH', 'COACH']",[],0
+882,915,DESKTOP SUPPORT ENGINEER,915,,"['DESKTOP', 'SUPPORT', 'ENGINEER']",[],0
+883,916,YOGA INSTRUCTOR,916,a motivated personal trainer,"['YOGA', 'INSTRUCTOR']","['a', 'motivated', 'personal', 'trainer']",0.570460683
+884,917,ADMINISTRATIVE ASSISTANT/SITE CLERK,917,,"['ADMINISTRATIVE', 'ASSISTANT/SITE', 'CLERK']",[],0
+885,918,ADJUNCT INSTRUCTOR,918,a Trip Coordinator an information technology analyst,"['ADJUNCT', 'INSTRUCTOR']","['a', 'Trip', 'Coordinator', 'an', 'information', 'technology', 'analyst']",0.568378994
+886,919,SUPPLY CHAIN MANAGER,919,new operators,"['SUPPLY', 'CHAIN', 'MANAGER']","['new', 'operators']",0.632560342
+887,920,SENIOR ANALYST DATA QUALITY & GOVERNANCE,920,a talented Senior Analyst,"['SENIOR', 'ANALYST', 'DATA', 'QUALITY', '&', 'GOVERNANCE']","['a', 'talented', 'Senior', 'Analyst']",0.355911927
+888,922,ENGINEER,922,a Healthcare Specialist,['ENGINEER'],"['a', 'Healthcare', 'Specialist']",0.507600093
+889,923,FAMILY ADVOCATE,923,,"['FAMILY', 'ADVOCATE']",[],0
+890,924,BAKERY ENTREPRENEUR,924,an experienced aviation supply specialist,"['BAKERY', 'ENTREPRENEUR']","['an', 'experienced', 'aviation', 'supply', 'specialist']",0.849790474
+891,925,STAFFING COORDINATOR,925,Staffing Coordinator a dedicated staffing coordinator the staffing coordinator the dedicated staffing coordinator,"['STAFFING', 'COORDINATOR']","['Staffing', 'Coordinator', 'a', 'dedicated', 'staffing', 'coordinator', 'the', 'staffing', 'coordinator', 'the', 'dedicated', 'staffing', 'coordinator']",0.515241472
+892,926,CHILD ADVOCATE MANAGER,926,,"['CHILD', 'ADVOCATE', 'MANAGER']",[],0
+893,927,SENIOR CUSTOMER SERVICE ADVOCATE,927,diverse healthcare specialists,"['SENIOR', 'CUSTOMER', 'SERVICE', 'ADVOCATE']","['diverse', 'healthcare', 'specialists']",0.376754188
+894,928,INFORMATION TECHNOLOGY MANAGER,928,,"['INFORMATION', 'TECHNOLOGY', 'MANAGER']",[],0
+895,929,FINANCE MANAGER,929,,"['FINANCE', 'MANAGER']",[],0
+896,930,"CORPORATE FACILITATOR, PERFORMANCE COACH AND DEVELOPER",930,a corporate facilitator,"['CORPORATE', 'FACILITATOR,', 'PERFORMANCE', 'COACH', 'AND', 'DEVELOPER']","['a', 'corporate', 'facilitator']",0.432886397
+897,931,ASSOCIATE CLAIM PROCESSOR/MEMBER SERVICE ADVOCATE,931,,"['ASSOCIATE', 'CLAIM', 'PROCESSOR/MEMBER', 'SERVICE', 'ADVOCATE']",[],0
+898,932,PATIENT EXPERIENCE MANAGER,932,,"['PATIENT', 'EXPERIENCE', 'MANAGER']",[],0
+899,933,REGIONAL HR BUSINESS PARTNER,933,,"['REGIONAL', 'HR', 'BUSINESS', 'PARTNER']",[],0
+900,934,OPERATIONS ASSOCIATE,934,executive teams,"['OPERATIONS', 'ASSOCIATE']","['executive', 'teams']",0.604570242
+901,935,"SENIOR HR MANAGER, HR BUSINESS PARTNER",935,,"['SENIOR', 'HR', 'MANAGER,', 'HR', 'BUSINESS', 'PARTNER']",[],0
+902,936,CONCIERGE,936,,['CONCIERGE'],[],0
+903,937,AUDIT AND RECOVERY SPECIALIST,937,an Audit and Recovery Specialist,"['AUDIT', 'AND', 'RECOVERY', 'SPECIALIST']","['an', 'Audit', 'and', 'Recovery', 'Specialist']",0.280054848
+904,938,QUALITY ASSURANCE ADVOCATE,938,,"['QUALITY', 'ASSURANCE', 'ADVOCATE']",[],0
+905,939,INFORMATION TECHNOLOGY SPECIALIST (INFOSEC),939,the IT specialist an exceptional senior advisor,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST', '(INFOSEC)']","['the', 'IT', 'specialist', 'an', 'exceptional', 'senior', 'advisor']",0.233462824
+906,940,INSTRUCTOR/WRITER,940,a Quality Control Inspector an exemplary representative,['INSTRUCTOR/WRITER'],"['a', 'Quality', 'Control', 'Inspector', 'an', 'exemplary', 'representative']",0.948206609
+907,941,HEALTHCARE ADMINISTRATOR,941,a talented healthcare administrator technology architecture,"['HEALTHCARE', 'ADMINISTRATOR']","['a', 'talented', 'healthcare', 'administrator', 'technology', 'architecture']",0.454971029
+908,942,DISTRICT MANAGER,942,,"['DISTRICT', 'MANAGER']",[],0
+909,943,HR ASSISTANT III,943,,"['HR', 'ASSISTANT', 'III']",[],0
+910,945,HR SPECIALIST,945,,"['HR', 'SPECIALIST']",[],0
+911,946,SALES ASSOCIATE,946,,"['SALES', 'ASSOCIATE']",[],0
+912,947,REGIONAL HR MANAGER,947,,"['REGIONAL', 'HR', 'MANAGER']",[],0
+913,948,TELLER 3,948,,"['TELLER', '3']",[],0
+914,949,INFORMATION TECHNOLOGY SPECIALIST,949,,"['INFORMATION', 'TECHNOLOGY', 'SPECIALIST']",[],0
+915,950,ACCOUNTANT,950,,['ACCOUNTANT'],[],0
+916,951,INFORMATION TECHNOLOGY MANAGER,951,,"['INFORMATION', 'TECHNOLOGY', 'MANAGER']",[],0
+917,952,FINANCE MANAGER,952,,"['FINANCE', 'MANAGER']",[],0
+918,953,STAFF ACCOUNTANT,953,,"['STAFF', 'ACCOUNTANT']",[],0
+919,954,CORPORATE ADMINISTRATOR,954,,"['CORPORATE', 'ADMINISTRATOR']",[],0
+920,955,V/P COMMERCIAL RELATIONSHIP MANAGER,955,,"['V/P', 'COMMERCIAL', 'RELATIONSHIP', 'MANAGER']",[],0
+921,956,TEAM MEMBER / PRICER,956,an Owner/Operator,"['TEAM', 'MEMBER', '/', 'PRICER']","['an', 'Owner/Operator']",0.567003907
+922,957,MERCHANT SERVICES ADVOCATE,957,,"['MERCHANT', 'SERVICES', 'ADVOCATE']",[],0
+923,958,CERTIFIED MASTER PERSONAL TRAINER,958,a remarkable certified master personal trainer a highly skilled certified master personal trainer a certified master personal trainer trainer performance and a seasoned personal trainer exemplifies a successful blend of interpersonal skills and technical expertise,"['CERTIFIED', 'MASTER', 'PERSONAL', 'TRAINER']","['a', 'remarkable', 'certified', 'master', 'personal', 'trainer', 'a', 'highly', 'skilled', 'certified', 'master', 'personal', 'trainer', 'a', 'certified', 'master', 'personal', 'trainer', 'trainer', 'performance', 'and', 'a', 'seasoned', 'personal', 'trainer', 'exemplifies', 'a', 'successful', 'blend', 'of', 'interpersonal', 'skills', 'and', 'technical', 'expertise']",0.535418831
+924,959,RELATIONSHIP SUPPORT OFFICER,959,,"['RELATIONSHIP', 'SUPPORT', 'OFFICER']",[],0
+925,960,RADIOLOGICAL CONTROL TECHNICIAN,960,radiological control technician a radiological control technician,"['RADIOLOGICAL', 'CONTROL', 'TECHNICIAN']","['radiological', 'control', 'technician', 'a', 'radiological', 'control', 'technician']",0.485218565
+926,961,DANCE EDUCATOR,961,,"['DANCE', 'EDUCATOR']",[],0
+927,962,SENIOR COMPLIANCE OFFICER,962,,"['SENIOR', 'COMPLIANCE', 'OFFICER']",[],0
+928,963,FINANCE MANAGER,963,a top producer a top producer,"['FINANCE', 'MANAGER']","['a', 'top', 'producer', 'a', 'top', 'producer']",0.352549281
+929,964,HEALTH ADVOCATE,964,,"['HEALTH', 'ADVOCATE']",[],0
+930,965,GENERAL ACCOUNTANT,965,,"['GENERAL', 'ACCOUNTANT']",[],0
+931,966,SHELTER ADVOCATE,966,,"['SHELTER', 'ADVOCATE']",[],0
+932,967,I,967,a dedicated Healthcare Marketing Specialist a healthcare marketing specialist,['I'],"['a', 'dedicated', 'Healthcare', 'Marketing', 'Specialist', 'a', 'healthcare', 'marketing', 'specialist']",0.775476285
+933,968,SENIOR MARKETING AUTOMATION CONSULTANT,968,,"['SENIOR', 'MARKETING', 'AUTOMATION', 'CONSULTANT']",[],0
+934,969,PARALEGAL,969,key executives an Operator,['PARALEGAL'],"['key', 'executives', 'an', 'Operator']",0.848335761
+935,970,REVOLVING CREDIT SUPPORT SPECIALIST,970,this support specialists communication skills this talented support specialist,"['REVOLVING', 'CREDIT', 'SUPPORT', 'SPECIALIST']","['this', 'support', 'specialists', 'communication', 'skills', 'this', 'talented', 'support', 'specialist']",0.427990805
+936,971,PERSONAL BANKER(SAFE)1 AND BUSINESS ADVOCATE,971,,"['PERSONAL', 'BANKER(SAFE)1', 'AND', 'BUSINESS', 'ADVOCATE']",[],0
+937,972,MATERIAL AND TOOLING CONTROL LEAD,972,brokers production operators,"['MATERIAL', 'AND', 'TOOLING', 'CONTROL', 'LEAD']","['brokers', 'production', 'operators']",0.727318882
+938,973,STAFF ASSISTANT,973,CISO executives a seasoned executive assistant role high-level executivesskills,"['STAFF', 'ASSISTANT']","['CISO', 'executives', 'a', 'seasoned', 'executive', 'assistant', 'role', 'high-level', 'executivesskills']",0.588506164
+939,975,INSIDE ACCOUNT MANAGER,975,,"['INSIDE', 'ACCOUNT', 'MANAGER']",[],0
+940,976,FINANCE MANAGER,976,an online learning coordinator,"['FINANCE', 'MANAGER']","['an', 'online', 'learning', 'coordinator']",0.403830475
+941,977,ACCOUNTANT,977,,['ACCOUNTANT'],[],0
+942,978,SENIOR STUDENT FINANCE SPECIALIST,978,a Pharmaceutical Sales Representative,"['SENIOR', 'STUDENT', 'FINANCE', 'SPECIALIST']","['a', 'Pharmaceutical', 'Sales', 'Representative']",0.301912893
+943,979,INFORMATION TECHNOLOGY ANALYST,979,,"['INFORMATION', 'TECHNOLOGY', 'ANALYST']",[],0
+944,980,FINANCE MANAGER,980,,"['FINANCE', 'MANAGER']",[],0
+945,981,HR SHARED SERVICES ANALYST,981,the analyst's unwavering commitment the HR Shared Services Analyst's operational expertise,"['HR', 'SHARED', 'SERVICES', 'ANALYST']","['the', ""analyst's"", 'unwavering', 'commitment', 'the', 'HR', 'Shared', 'Services', ""Analyst's"", 'operational', 'expertise']",0.355100441
+946,982,RECREATION & SPORTS COORDINATOR,982,a driven recreation and sports coordinator this Coordinator a Recreation Supervisor position,"['RECREATION', '&', 'SPORTS', 'COORDINATOR']","['a', 'driven', 'recreation', 'and', 'sports', 'coordinator', 'this', 'Coordinator', 'a', 'Recreation', 'Supervisor', 'position']",0.377429443
+947,983,COORDINATOR OF STUDENT PERSONNEL SERVICES,983,,"['COORDINATOR', 'OF', 'STUDENT', 'PERSONNEL', 'SERVICES']",[],0
+948,984,MEDICAL SUPPORT ASSISTANT,984,the Medical Support Assistant's proficiency a personal trainer,"['MEDICAL', 'SUPPORT', 'ASSISTANT']","['the', 'Medical', 'Support', ""Assistant's"", 'proficiency', 'a', 'personal', 'trainer']",0.446191762
+949,985,HR ADMINISTRATOR/MARKETING ASSOCIATE HR ADMINISTRATOR,985,,"['HR', 'ADMINISTRATOR/MARKETING', 'ASSOCIATE', 'HR', 'ADMINISTRATOR']",[],0
+950,986,FITNESS DIRECTOR,986,personal trainers personal trainers,"['FITNESS', 'DIRECTOR']","['personal', 'trainers', 'personal', 'trainers']",0.632817861
+951,987,"DIRECTOR, CLINICAL RESEARCH OPERATIONS & MEDICAL SCIENCE LIAISON",987,a talented sleep technologist the audit and recovery specialist,"['DIRECTOR,', 'CLINICAL', 'RESEARCH', 'OPERATIONS', '&', 'MEDICAL', 'SCIENCE', 'LIAISON']","['a', 'talented', 'sleep', 'technologist', 'the', 'audit', 'and', 'recovery', 'specialist']",0.37486984
+952,988,IT DIRECTOR,988,executive teams international partners a highly skilled information technology intern,"['IT', 'DIRECTOR']","['executive', 'teams', 'international', 'partners', 'a', 'highly', 'skilled', 'information', 'technology', 'intern']",0.389564893
+953,989,LEAD AEROSPACE ASSEMBLER,989,,"['LEAD', 'AEROSPACE', 'ASSEMBLER']",[],0
+954,990,AVIATION FUEL QUALITY CONTROL SPECIALIST,990,an exceptionally talented aviation fuel quality control specialist,"['AVIATION', 'FUEL', 'QUALITY', 'CONTROL', 'SPECIALIST']","['an', 'exceptionally', 'talented', 'aviation', 'fuel', 'quality', 'control', 'specialist']",0.343567839
+955,991,SENIOR MANAGER -NATIONAL SALES FINANCE,991,internal controls,"['SENIOR', 'MANAGER', '-NATIONAL', 'SALES', 'FINANCE']","['internal', 'controls']",0.418007966
+956,992,PLANT OPERATOR,992,new operators a skilled and dedicated plant operator a highly skilled plant operator,"['PLANT', 'OPERATOR']","['new', 'operators', 'a', 'skilled', 'and', 'dedicated', 'plant', 'operator', 'a', 'highly', 'skilled', 'plant', 'operator']",0.623399602
+957,993,OPERATIONS FINANCE DIRECTOR,993,internal controls,"['OPERATIONS', 'FINANCE', 'DIRECTOR']","['internal', 'controls']",0.484814096
+958,994,SENIOR MANAGER/SPECIALIST LEADER HEALTHCARE,994,,"['SENIOR', 'MANAGER/SPECIALIST', 'LEADER', 'HEALTHCARE']",[],0
+959,995,CULINARY ARTS INSTRUCTOR,995,,"['CULINARY', 'ARTS', 'INSTRUCTOR']",[],0
+960,996,MIDDLE SCHOOL PRINCIPAL,996,senior executives,"['MIDDLE', 'SCHOOL', 'PRINCIPAL']","['senior', 'executives']",0.735861219
+961,997,INFORMATION TECHNOLOGY TECHNICIAN I,997,this technician rigorous internal controls,"['INFORMATION', 'TECHNOLOGY', 'TECHNICIAN', 'I']","['this', 'technician', 'rigorous', 'internal', 'controls']",0.409723124
+962,998,DEALERSHIP FINANCE MANAGER,998,,"['DEALERSHIP', 'FINANCE', 'MANAGER']",[],0
+963,999,INFORMATION TECHNOLOGY AND AWS ADMIN INTERN,999,an Information Technology and AWS Admin Intern an Information Technology and AWS Admin Intern an Information Technology and AWS Admin Intern,"['INFORMATION', 'TECHNOLOGY', 'AND', 'AWS', 'ADMIN', 'INTERN']","['an', 'Information', 'Technology', 'and', 'AWS', 'Admin', 'Intern', 'an', 'Information', 'Technology', 'and', 'AWS', 'Admin', 'Intern', 'an', 'Information', 'Technology', 'and', 'AWS', 'Admin', 'Intern']",0.189947352
