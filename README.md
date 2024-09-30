@@ -7,19 +7,6 @@ This project combines fraud detection and skill ranking for profiles using a sin
 - **Fraud Detection:** Identifies fraudulent profiles based on risk factors using a BiLSTM Autoencoder.
 - **Skill Extraction and Ranking:** Extracts, normalizes, and ranks skills from profile data. Fraudulent profiles have their skill scores set to zero.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Input Data](#input-data)
-- [Instructions](#instructions)
-- [Run the Script](#run-the-script)
-- [Outputs](#outputs)
-- [Notes](#notes)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-- [Contact](#contact)
-
 ## Requirements
 
 - **Python** 3.6 or later
