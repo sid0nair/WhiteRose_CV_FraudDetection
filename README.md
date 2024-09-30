@@ -27,6 +27,6 @@ This project combines fraud detection and skill ranking for profiles using a sin
 
   To install the required libraries, run:
   ```bash
-  pip install pandas numpy scikit-learn tensorflow matplotlib spacy
+  pip install pandas numpy scikit-learn tensorflow matplotlib networkx textblob spacy seaborn python-louvain
   python -m spacy download en_core_web_sm
 
